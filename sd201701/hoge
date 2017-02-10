@@ -1,0 +1,5 @@
+cat alphabet_connection | tr ' ' '\n' | ( cat; echo {a..z} | tr ' ' '\n' )| sort | uniq -c | awk '$1==1{print ""}$1==2{printf $2" "}END{print ""}' | awk 'NF==1{print}NF>1{print $1"-"$NF}' | xargs
+
+ printf "%s\n" {a..z} $(<alphabet_connection) | sort | uniq -c | sed 's/.*2 //;/1/c\\n' | awk '{sub(/\n(.\n)*/,"-")}1' RS= | xargs
+
+cat alphabet_connection | perl -anle 'print unpack("C ", $_) for sort @F' | awk 'BEGIN{n=$0}{if($0 - n <= 1){printf $0" " }else{printf "\n"$0" "} n=$0}END{print}' | perl -anle 'printf pack("C", $_)."\t" for @F;print ""' | awk 'NF>=2{print $1"-"$NF}NF==1{print}' | xargs

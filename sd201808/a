@@ -1,0 +1,22 @@
+This is TeX, Version 3.14159265 (TeX Live 2017/Debian) (preloaded format=tex)
+(./tmp.tex
+Overfull \hbox (1.27837pt too wide) in paragraph at lines 2--3
+[]\tenrm Bash is an sh-compatible|
+
+Overfull \hbox (6.61177pt too wide) in paragraph at lines 2--3
+\tenrm com-mand lan-guage in-ter-preter|
+
+Overfull \hbox (1.66728pt too wide) in paragraph at lines 2--3
+\tenrm that ex-e-cutes com-mands read|
+[1] )
+(see the transcript file for additional information)
+Output written on tmp.dvi (1 page, 500 bytes).
+Transcript written on tmp.log.
+ Bash is an sh-compatible
+command language interpreter
+that executes commands read
+from the standard input or
+from a file. Bash also incor-
+porates useful features from
+the Korn and C shells (ksh
+and csh).

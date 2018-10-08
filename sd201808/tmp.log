@@ -1,0 +1,41 @@
+This is TeX, Version 3.14159265 (TeX Live 2017/Debian) (preloaded format=tex 2018.4.30)  1 JUL 2018 14:15
+**tmp.tex
+(./tmp.tex
+Overfull \hbox (1.27837pt too wide) in paragraph at lines 2--3
+[]\tenrm Bash is an sh-compatible|
+
+\hbox(6.94444+1.94444)x124.86072, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm B
+.\tenrm a
+.\tenrm s
+.\tenrm h
+.etc.
+
+
+Overfull \hbox (6.61177pt too wide) in paragraph at lines 2--3
+\tenrm com-mand lan-guage in-ter-preter|
+
+\hbox(6.94444+1.94444)x124.86072, glue set - 1.0
+.\tenrm c
+.\tenrm o
+.\tenrm m
+.\discretionary
+..\tenrm -
+.\tenrm m
+.etc.
+
+
+Overfull \hbox (1.66728pt too wide) in paragraph at lines 2--3
+\tenrm that ex-e-cutes com-mands read|
+
+\hbox(6.94444+0.0)x124.86072, glue set - 1.0
+.\tenrm t
+.\tenrm h
+.\tenrm a
+.\tenrm t
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+[1] )
+Output written on tmp.dvi (1 page, 500 bytes).

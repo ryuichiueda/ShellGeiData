@@ -1,5 +1,2 @@
-mac_ls.txt
-mac_ls_new.txt
-クルッポー.wav
 バナザード_南海ホークス.bin
 やばたにえん.txt

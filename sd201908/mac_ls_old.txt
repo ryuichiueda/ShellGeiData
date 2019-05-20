@@ -1,0 +1,6 @@
+mac_ls.txt
+mac_ls_new.txt
+mac_ls_old.txt
+クルッポー.wav
+バナザード_南海ホークス.bin
+やばたにえん.txt

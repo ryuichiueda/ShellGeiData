@@ -1,0 +1,1147 @@
+Sep  7 14:10:19 hoge-server sudo: pam_unix(sudo:session): session closed for user root
+Sep  7 14:11:01 hoge-server CRON[4060]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:11:01 hoge-server CRON[4060]: pam_unix(cron:session): session closed for user root
+Sep  7 14:12:01 hoge-server CRON[4090]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:12:01 hoge-server CRON[4090]: pam_unix(cron:session): session closed for user root
+Sep  7 14:13:01 hoge-server CRON[4120]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:13:01 hoge-server CRON[4120]: pam_unix(cron:session): session closed for user root
+Sep  7 14:14:01 hoge-server CRON[4150]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:14:01 hoge-server CRON[4150]: pam_unix(cron:session): session closed for user root
+Sep  7 14:15:01 hoge-server CRON[4181]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:15:01 hoge-server CRON[4180]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:15:01 hoge-server CRON[4181]: pam_unix(cron:session): session closed for user root
+Sep  7 14:15:01 hoge-server CRON[4180]: pam_unix(cron:session): session closed for user root
+Sep  7 14:16:01 hoge-server CRON[4212]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:16:01 hoge-server CRON[4212]: pam_unix(cron:session): session closed for user root
+Sep  7 14:17:01 hoge-server CRON[4244]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:17:01 hoge-server CRON[4243]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:17:01 hoge-server CRON[4243]: pam_unix(cron:session): session closed for user root
+Sep  7 14:17:01 hoge-server CRON[4244]: pam_unix(cron:session): session closed for user root
+Sep  7 14:18:01 hoge-server CRON[4276]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:18:01 hoge-server CRON[4276]: pam_unix(cron:session): session closed for user root
+Sep  7 14:19:01 hoge-server CRON[4306]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:19:02 hoge-server CRON[4306]: pam_unix(cron:session): session closed for user root
+Sep  7 14:20:02 hoge-server CRON[4333]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:20:02 hoge-server CRON[4333]: pam_unix(cron:session): session closed for user root
+Sep  7 14:21:01 hoge-server CRON[4366]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:21:01 hoge-server CRON[4366]: pam_unix(cron:session): session closed for user root
+Sep  7 14:22:01 hoge-server CRON[4396]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:22:01 hoge-server CRON[4396]: pam_unix(cron:session): session closed for user root
+Sep  7 14:23:01 hoge-server CRON[4422]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:23:01 hoge-server CRON[4422]: pam_unix(cron:session): session closed for user root
+Sep  7 14:24:01 hoge-server CRON[4452]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:24:01 hoge-server CRON[4452]: pam_unix(cron:session): session closed for user root
+Sep  7 14:25:01 hoge-server CRON[4483]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:25:01 hoge-server CRON[4482]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:25:01 hoge-server CRON[4483]: pam_unix(cron:session): session closed for user root
+Sep  7 14:25:01 hoge-server CRON[4482]: pam_unix(cron:session): session closed for user root
+Sep  7 14:26:01 hoge-server CRON[4518]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:26:01 hoge-server CRON[4518]: pam_unix(cron:session): session closed for user root
+Sep  7 14:27:01 hoge-server CRON[4544]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:27:01 hoge-server CRON[4544]: pam_unix(cron:session): session closed for user root
+Sep  7 14:28:01 hoge-server CRON[4574]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:28:01 hoge-server CRON[4574]: pam_unix(cron:session): session closed for user root
+Sep  7 14:29:01 hoge-server CRON[4604]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:29:01 hoge-server CRON[4604]: pam_unix(cron:session): session closed for user root
+Sep  7 14:30:01 hoge-server CRON[4634]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:30:01 hoge-server CRON[4634]: pam_unix(cron:session): session closed for user root
+Sep  7 14:31:01 hoge-server CRON[4663]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:31:01 hoge-server CRON[4663]: pam_unix(cron:session): session closed for user root
+Sep  7 14:32:01 hoge-server CRON[4693]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:32:01 hoge-server CRON[4693]: pam_unix(cron:session): session closed for user root
+Sep  7 14:33:01 hoge-server CRON[4723]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:33:01 hoge-server CRON[4723]: pam_unix(cron:session): session closed for user root
+Sep  7 14:34:01 hoge-server CRON[4753]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:34:01 hoge-server CRON[4753]: pam_unix(cron:session): session closed for user root
+Sep  7 14:35:01 hoge-server CRON[4780]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:35:01 hoge-server CRON[4779]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:35:01 hoge-server CRON[4780]: pam_unix(cron:session): session closed for user root
+Sep  7 14:35:01 hoge-server CRON[4779]: pam_unix(cron:session): session closed for user root
+Sep  7 14:36:01 hoge-server CRON[4815]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:36:01 hoge-server CRON[4815]: pam_unix(cron:session): session closed for user root
+Sep  7 14:37:01 hoge-server CRON[4846]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:37:01 hoge-server CRON[4846]: pam_unix(cron:session): session closed for user root
+Sep  7 14:38:01 hoge-server CRON[4876]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:38:01 hoge-server CRON[4876]: pam_unix(cron:session): session closed for user root
+Sep  7 14:39:01 hoge-server CRON[4903]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:39:01 hoge-server CRON[4902]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:39:01 hoge-server CRON[4902]: pam_unix(cron:session): session closed for user root
+Sep  7 14:39:01 hoge-server CRON[4903]: pam_unix(cron:session): session closed for user root
+Sep  7 14:40:01 hoge-server CRON[5003]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:40:01 hoge-server CRON[5003]: pam_unix(cron:session): session closed for user root
+Sep  7 14:41:01 hoge-server CRON[5035]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:41:01 hoge-server CRON[5035]: pam_unix(cron:session): session closed for user root
+Sep  7 14:42:01 hoge-server CRON[5066]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:42:01 hoge-server CRON[5066]: pam_unix(cron:session): session closed for user root
+Sep  7 14:43:01 hoge-server CRON[5092]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:43:01 hoge-server CRON[5092]: pam_unix(cron:session): session closed for user root
+Sep  7 14:44:01 hoge-server CRON[5122]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:44:01 hoge-server CRON[5122]: pam_unix(cron:session): session closed for user root
+Sep  7 14:45:01 hoge-server CRON[5153]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:45:01 hoge-server CRON[5152]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:45:01 hoge-server CRON[5153]: pam_unix(cron:session): session closed for user root
+Sep  7 14:45:01 hoge-server CRON[5152]: pam_unix(cron:session): session closed for user root
+Sep  7 14:46:01 hoge-server CRON[5189]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:46:01 hoge-server CRON[5189]: pam_unix(cron:session): session closed for user root
+Sep  7 14:47:01 hoge-server CRON[5219]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:47:01 hoge-server CRON[5219]: pam_unix(cron:session): session closed for user root
+Sep  7 14:48:01 hoge-server CRON[5245]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:48:01 hoge-server CRON[5245]: pam_unix(cron:session): session closed for user root
+Sep  7 14:49:01 hoge-server CRON[5275]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:49:01 hoge-server CRON[5275]: pam_unix(cron:session): session closed for user root
+Sep  7 14:50:01 hoge-server CRON[5306]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:50:01 hoge-server CRON[5306]: pam_unix(cron:session): session closed for user root
+Sep  7 14:51:01 hoge-server CRON[5338]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:51:01 hoge-server CRON[5338]: pam_unix(cron:session): session closed for user root
+Sep  7 14:52:01 hoge-server CRON[5365]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:52:01 hoge-server CRON[5365]: pam_unix(cron:session): session closed for user root
+Sep  7 14:53:01 hoge-server CRON[5395]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:53:01 hoge-server CRON[5395]: pam_unix(cron:session): session closed for user root
+Sep  7 14:54:01 hoge-server CRON[5425]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:54:01 hoge-server CRON[5425]: pam_unix(cron:session): session closed for user root
+Sep  7 14:55:01 hoge-server CRON[5456]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:55:01 hoge-server CRON[5455]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:55:01 hoge-server CRON[5456]: pam_unix(cron:session): session closed for user root
+Sep  7 14:55:01 hoge-server CRON[5455]: pam_unix(cron:session): session closed for user root
+Sep  7 14:56:01 hoge-server CRON[5487]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:56:01 hoge-server CRON[5487]: pam_unix(cron:session): session closed for user root
+Sep  7 14:57:01 hoge-server CRON[5517]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:57:01 hoge-server CRON[5517]: pam_unix(cron:session): session closed for user root
+Sep  7 14:58:01 hoge-server CRON[5547]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:58:01 hoge-server CRON[5547]: pam_unix(cron:session): session closed for user root
+Sep  7 14:59:01 hoge-server CRON[5604]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 14:59:01 hoge-server CRON[5604]: pam_unix(cron:session): session closed for user root
+Sep  7 15:00:01 hoge-server CRON[5635]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:00:01 hoge-server CRON[5635]: pam_unix(cron:session): session closed for user root
+Sep  7 15:01:01 hoge-server CRON[5663]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:01:01 hoge-server CRON[5663]: pam_unix(cron:session): session closed for user root
+Sep  7 15:02:01 hoge-server CRON[5694]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:02:01 hoge-server CRON[5694]: pam_unix(cron:session): session closed for user root
+Sep  7 15:02:59 hoge-server sudo:   ubuntu : TTY=pts/1 ; PWD=/home/ubuntu/environment/sd_shell_fungo ; USER=root ; COMMAND=/bin/su
+Sep  7 15:02:59 hoge-server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep  7 15:02:59 hoge-server su[5751]: Successful su for root by root
+Sep  7 15:02:59 hoge-server su[5751]: + /dev/pts/1 root:root
+Sep  7 15:02:59 hoge-server su[5751]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep  7 15:02:59 hoge-server su[5751]: pam_systemd(su:session): Cannot create session: Already running in a session
+Sep  7 15:03:01 hoge-server CRON[5763]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:03:01 hoge-server CRON[5763]: pam_unix(cron:session): session closed for user root
+Sep  7 15:03:11 hoge-server passwd[5762]: pam_unix(passwd:chauthtok): password changed for root
+Sep  7 15:03:13 hoge-server su[5751]: pam_unix(su:session): session closed for user root
+Sep  7 15:03:13 hoge-server sudo: pam_unix(sudo:session): session closed for user root
+Sep  7 15:03:20 hoge-server su[5781]: Successful su for root by ubuntu
+Sep  7 15:03:20 hoge-server su[5781]: + /dev/pts/1 ubuntu:root
+Sep  7 15:03:20 hoge-server su[5781]: pam_unix(su:session): session opened for user root by (uid=1000)
+Sep  7 15:03:20 hoge-server su[5781]: pam_systemd(su:session): Cannot create session: Already running in a session
+Sep  7 15:03:46 hoge-server su[5781]: pam_unix(su:session): session closed for user root
+Sep  7 15:04:01 hoge-server CRON[5862]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:04:01 hoge-server CRON[5862]: pam_unix(cron:session): session closed for user root
+Sep  7 15:05:01 hoge-server CRON[5965]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:05:01 hoge-server CRON[5964]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:05:02 hoge-server CRON[5965]: pam_unix(cron:session): session closed for user root
+Sep  7 15:05:02 hoge-server CRON[5964]: pam_unix(cron:session): session closed for user root
+Sep  7 15:05:08 hoge-server sudo:   ubuntu : TTY=pts/1 ; PWD=/home/ubuntu/environment/sd_shell_fungo ; USER=root ; COMMAND=/bin/ls
+Sep  7 15:05:08 hoge-server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep  7 15:05:08 hoge-server sudo: pam_unix(sudo:session): session closed for user root
+Sep  7 15:06:01 hoge-server CRON[6098]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:06:01 hoge-server CRON[6098]: pam_unix(cron:session): session closed for user root
+Sep  7 15:07:01 hoge-server CRON[6131]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:07:01 hoge-server CRON[6131]: pam_unix(cron:session): session closed for user root
+Sep  7 15:08:01 hoge-server CRON[6157]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:08:01 hoge-server CRON[6157]: pam_unix(cron:session): session closed for user root
+Sep  7 15:09:01 hoge-server CRON[6188]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:09:01 hoge-server CRON[6187]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:09:01 hoge-server CRON[6187]: pam_unix(cron:session): session closed for user root
+Sep  7 15:09:01 hoge-server CRON[6188]: pam_unix(cron:session): session closed for user root
+Sep  7 15:10:01 hoge-server CRON[6289]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:10:01 hoge-server CRON[6289]: pam_unix(cron:session): session closed for user root
+Sep  7 15:11:01 hoge-server CRON[6321]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:11:01 hoge-server CRON[6321]: pam_unix(cron:session): session closed for user root
+Sep  7 15:12:01 hoge-server CRON[6347]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:12:01 hoge-server CRON[6347]: pam_unix(cron:session): session closed for user root
+Sep  7 15:13:01 hoge-server CRON[6378]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:13:01 hoge-server CRON[6378]: pam_unix(cron:session): session closed for user root
+Sep  7 15:14:01 hoge-server CRON[6408]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:14:01 hoge-server CRON[6408]: pam_unix(cron:session): session closed for user root
+Sep  7 15:15:01 hoge-server CRON[6439]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:15:01 hoge-server CRON[6438]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:15:01 hoge-server CRON[6439]: pam_unix(cron:session): session closed for user root
+Sep  7 15:15:01 hoge-server CRON[6438]: pam_unix(cron:session): session closed for user root
+Sep  7 15:16:01 hoge-server CRON[6469]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:16:01 hoge-server CRON[6469]: pam_unix(cron:session): session closed for user root
+Sep  7 15:17:01 hoge-server CRON[6501]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:17:01 hoge-server CRON[6500]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:17:01 hoge-server CRON[6500]: pam_unix(cron:session): session closed for user root
+Sep  7 15:17:01 hoge-server CRON[6501]: pam_unix(cron:session): session closed for user root
+Sep  7 15:18:01 hoge-server CRON[6534]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:18:01 hoge-server CRON[6534]: pam_unix(cron:session): session closed for user root
+Sep  7 15:19:01 hoge-server CRON[6564]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:19:01 hoge-server CRON[6564]: pam_unix(cron:session): session closed for user root
+Sep  7 15:20:01 hoge-server CRON[6591]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:20:01 hoge-server CRON[6591]: pam_unix(cron:session): session closed for user root
+Sep  7 15:21:01 hoge-server CRON[6623]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:21:01 hoge-server CRON[6623]: pam_unix(cron:session): session closed for user root
+Sep  7 15:22:01 hoge-server CRON[6653]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:22:01 hoge-server CRON[6653]: pam_unix(cron:session): session closed for user root
+Sep  7 15:23:01 hoge-server CRON[6684]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:23:01 hoge-server CRON[6684]: pam_unix(cron:session): session closed for user root
+Sep  7 15:24:01 hoge-server CRON[6710]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:24:01 hoge-server CRON[6710]: pam_unix(cron:session): session closed for user root
+Sep  7 15:24:39 hoge-server sudo:   ubuntu : TTY=pts/1 ; PWD=/home/ubuntu/environment/sd_shell_fungo ; USER=root ; COMMAND=/usr/sbin/useradd -m hoge
+Sep  7 15:24:39 hoge-server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep  7 15:24:39 hoge-server useradd[6743]: new group: name=hoge, GID=1001
+Sep  7 15:24:39 hoge-server useradd[6743]: new user: name=hoge, UID=1001, GID=1001, home=/home/hoge, shell=/bin/sh
+Sep  7 15:24:39 hoge-server sudo: pam_unix(sudo:session): session closed for user root
+Sep  7 15:24:44 hoge-server su[6753]: pam_unix(su:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/1 ruser=ubuntu rhost=  user=hoge
+Sep  7 15:24:46 hoge-server su[6753]: pam_authenticate: Authentication failure
+Sep  7 15:24:46 hoge-server su[6753]: FAILED su for hoge by ubuntu
+Sep  7 15:24:46 hoge-server su[6753]: - /dev/pts/1 ubuntu:hoge
+Sep  7 15:24:50 hoge-server sudo:   ubuntu : TTY=pts/1 ; PWD=/home/ubuntu/environment/sd_shell_fungo ; USER=root ; COMMAND=/bin/su hoge
+Sep  7 15:24:50 hoge-server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep  7 15:24:50 hoge-server su[6763]: Successful su for hoge by root
+Sep  7 15:24:50 hoge-server su[6763]: + /dev/pts/1 root:hoge
+Sep  7 15:24:50 hoge-server su[6763]: pam_unix(su:session): session opened for user hoge by (uid=0)
+Sep  7 15:24:50 hoge-server su[6763]: pam_systemd(su:session): Cannot create session: Already running in a session
+Sep  7 15:24:53 hoge-server su[6763]: pam_unix(su:session): session closed for user hoge
+Sep  7 15:24:53 hoge-server sudo: pam_unix(sudo:session): session closed for user root
+Sep  7 15:25:01 hoge-server CRON[6790]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:25:01 hoge-server CRON[6789]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:25:01 hoge-server CRON[6790]: pam_unix(cron:session): session closed for user root
+Sep  7 15:25:01 hoge-server CRON[6789]: pam_unix(cron:session): session closed for user root
+Sep  7 15:25:25 hoge-server sudo:   ubuntu : TTY=pts/1 ; PWD=/home/ubuntu/environment/sd_shell_fungo ; USER=root ; COMMAND=/bin/su hoge
+Sep  7 15:25:25 hoge-server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep  7 15:25:25 hoge-server su[6816]: Successful su for hoge by root
+Sep  7 15:25:25 hoge-server su[6816]: + /dev/pts/1 root:hoge
+Sep  7 15:25:25 hoge-server su[6816]: pam_unix(su:session): session opened for user hoge by (uid=0)
+Sep  7 15:25:25 hoge-server su[6816]: pam_systemd(su:session): Cannot create session: Already running in a session
+Sep  7 15:25:35 hoge-server passwd[6820]: pam_unix(passwd:chauthtok): authentication failure; logname= uid=1001 euid=0 tty= ruser= rhost=  user=hoge
+Sep  7 15:25:43 hoge-server passwd[6827]: pam_unix(passwd:chauthtok): authentication failure; logname= uid=1001 euid=0 tty= ruser= rhost=  user=hoge
+Sep  7 15:25:46 hoge-server su[6816]: pam_unix(su:session): session closed for user hoge
+Sep  7 15:25:46 hoge-server sudo: pam_unix(sudo:session): session closed for user root
+Sep  7 15:25:49 hoge-server sudo:   ubuntu : TTY=pts/1 ; PWD=/home/ubuntu/environment/sd_shell_fungo ; USER=root ; COMMAND=/bin/su
+Sep  7 15:25:49 hoge-server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep  7 15:25:49 hoge-server su[6837]: Successful su for root by root
+Sep  7 15:25:49 hoge-server su[6837]: + /dev/pts/1 root:root
+Sep  7 15:25:49 hoge-server su[6837]: pam_unix(su:session): session opened for user root by (uid=0)
+Sep  7 15:25:49 hoge-server su[6837]: pam_systemd(su:session): Cannot create session: Already running in a session
+Sep  7 15:25:58 hoge-server passwd[6848]: pam_unix(passwd:chauthtok): password changed for hoge
+Sep  7 15:26:01 hoge-server su[6837]: pam_unix(su:session): session closed for user root
+Sep  7 15:26:01 hoge-server sudo: pam_unix(sudo:session): session closed for user root
+Sep  7 15:26:01 hoge-server CRON[6856]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:26:01 hoge-server CRON[6856]: pam_unix(cron:session): session closed for user root
+Sep  7 15:26:06 hoge-server su[6866]: Successful su for hoge by ubuntu
+Sep  7 15:26:06 hoge-server su[6866]: + /dev/pts/1 ubuntu:hoge
+Sep  7 15:26:06 hoge-server su[6866]: pam_unix(su:session): session opened for user hoge by (uid=1000)
+Sep  7 15:26:06 hoge-server su[6866]: pam_systemd(su:session): Cannot create session: Already running in a session
+Sep  7 15:26:08 hoge-server su[6866]: pam_unix(su:session): session closed for user hoge
+Sep  7 15:26:16 hoge-server sudo:   ubuntu : TTY=pts/1 ; PWD=/home/ubuntu/environment/sd_shell_fungo ; USER=hoge ; COMMAND=/bin/echo
+Sep  7 15:26:16 hoge-server sudo: pam_unix(sudo:session): session opened for user hoge by (uid=0)
+Sep  7 15:26:16 hoge-server sudo: pam_unix(sudo:session): session closed for user hoge
+Sep  7 15:27:01 hoge-server CRON[7000]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:27:01 hoge-server CRON[7000]: pam_unix(cron:session): session closed for user root
+Sep  7 15:28:01 hoge-server CRON[7215]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:28:01 hoge-server CRON[7215]: pam_unix(cron:session): session closed for user root
+Sep  7 15:29:01 hoge-server CRON[7337]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:29:01 hoge-server CRON[7337]: pam_unix(cron:session): session closed for user root
+Sep  7 15:30:01 hoge-server CRON[7549]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:30:01 hoge-server CRON[7549]: pam_unix(cron:session): session closed for user root
+Sep  7 15:31:01 hoge-server CRON[7628]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:31:01 hoge-server CRON[7628]: pam_unix(cron:session): session closed for user root
+Sep  7 15:32:01 hoge-server CRON[7705]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:32:01 hoge-server CRON[7705]: pam_unix(cron:session): session closed for user root
+Sep  7 15:33:01 hoge-server CRON[7968]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:33:01 hoge-server CRON[7968]: pam_unix(cron:session): session closed for user root
+Sep  7 15:34:01 hoge-server CRON[8047]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:34:01 hoge-server CRON[8047]: pam_unix(cron:session): session closed for user root
+Sep  7 15:35:01 hoge-server CRON[8128]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:35:01 hoge-server CRON[8127]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:35:01 hoge-server CRON[8128]: pam_unix(cron:session): session closed for user root
+Sep  7 15:35:01 hoge-server CRON[8127]: pam_unix(cron:session): session closed for user root
+Sep  7 15:36:01 hoge-server CRON[8287]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:36:01 hoge-server CRON[8287]: pam_unix(cron:session): session closed for user root
+Sep  7 15:37:01 hoge-server CRON[8317]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:37:01 hoge-server CRON[8317]: pam_unix(cron:session): session closed for user root
+Sep  7 15:38:01 hoge-server CRON[8348]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:38:01 hoge-server CRON[8348]: pam_unix(cron:session): session closed for user root
+Sep  7 15:39:01 hoge-server CRON[8379]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:39:01 hoge-server CRON[8378]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:39:01 hoge-server CRON[8378]: pam_unix(cron:session): session closed for user root
+Sep  7 15:39:01 hoge-server CRON[8379]: pam_unix(cron:session): session closed for user root
+Sep  7 15:40:01 hoge-server CRON[8476]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:40:01 hoge-server CRON[8476]: pam_unix(cron:session): session closed for user root
+Sep  7 15:41:01 hoge-server CRON[8531]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:41:01 hoge-server CRON[8531]: pam_unix(cron:session): session closed for user root
+Sep  7 15:41:15 hoge-server su[8545]: Successful su for root by ubuntu
+Sep  7 15:41:15 hoge-server su[8545]: + /dev/pts/1 ubuntu:root
+Sep  7 15:41:15 hoge-server su[8545]: pam_unix(su:session): session opened for user root by (uid=1000)
+Sep  7 15:41:15 hoge-server su[8545]: pam_systemd(su:session): Cannot create session: Already running in a session
+Sep  7 15:41:17 hoge-server su[8545]: pam_unix(su:session): session closed for user root
+Sep  7 15:42:01 hoge-server CRON[8601]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:42:01 hoge-server CRON[8601]: pam_unix(cron:session): session closed for user root
+Sep  7 15:42:48 hoge-server sudo:   ubuntu : TTY=pts/1 ; PWD=/home/ubuntu/environment/sd_shell_fungo ; USER=root ; COMMAND=/bin/ls
+Sep  7 15:42:48 hoge-server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep  7 15:42:48 hoge-server sudo: pam_unix(sudo:session): session closed for user root
+Sep  7 15:43:01 hoge-server CRON[8656]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:43:01 hoge-server CRON[8656]: pam_unix(cron:session): session closed for user root
+Sep  7 15:44:01 hoge-server CRON[8701]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:44:01 hoge-server CRON[8701]: pam_unix(cron:session): session closed for user root
+Sep  7 15:45:01 hoge-server CRON[8757]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:45:01 hoge-server CRON[8756]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:45:01 hoge-server CRON[8757]: pam_unix(cron:session): session closed for user root
+Sep  7 15:45:01 hoge-server CRON[8756]: pam_unix(cron:session): session closed for user root
+Sep  7 15:46:01 hoge-server CRON[8803]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:46:01 hoge-server CRON[8803]: pam_unix(cron:session): session closed for user root
+Sep  7 15:47:01 hoge-server CRON[8835]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:47:01 hoge-server CRON[8835]: pam_unix(cron:session): session closed for user root
+Sep  7 15:48:01 hoge-server CRON[8922]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:48:01 hoge-server CRON[8922]: pam_unix(cron:session): session closed for user root
+Sep  7 15:49:01 hoge-server CRON[8966]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:49:02 hoge-server CRON[8966]: pam_unix(cron:session): session closed for user root
+Sep  7 15:50:01 hoge-server CRON[9045]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:50:01 hoge-server CRON[9045]: pam_unix(cron:session): session closed for user root
+Sep  7 15:51:01 hoge-server CRON[9079]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:51:01 hoge-server CRON[9079]: pam_unix(cron:session): session closed for user root
+Sep  7 15:52:01 hoge-server CRON[9122]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:52:01 hoge-server CRON[9122]: pam_unix(cron:session): session closed for user root
+Sep  7 15:53:01 hoge-server CRON[9175]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:53:01 hoge-server CRON[9175]: pam_unix(cron:session): session closed for user root
+Sep  7 15:54:01 hoge-server CRON[9231]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:54:01 hoge-server CRON[9231]: pam_unix(cron:session): session closed for user root
+Sep  7 15:55:01 hoge-server CRON[9320]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:55:01 hoge-server CRON[9321]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:55:01 hoge-server CRON[9321]: pam_unix(cron:session): session closed for user root
+Sep  7 15:55:01 hoge-server CRON[9320]: pam_unix(cron:session): session closed for user root
+Sep  7 15:56:01 hoge-server CRON[9362]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:56:01 hoge-server CRON[9362]: pam_unix(cron:session): session closed for user root
+Sep  7 15:57:01 hoge-server CRON[9434]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:57:01 hoge-server CRON[9434]: pam_unix(cron:session): session closed for user root
+Sep  7 15:58:01 hoge-server CRON[9497]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:58:01 hoge-server CRON[9497]: pam_unix(cron:session): session closed for user root
+Sep  7 15:59:01 hoge-server CRON[9574]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 15:59:01 hoge-server CRON[9574]: pam_unix(cron:session): session closed for user root
+Sep  7 16:00:01 hoge-server CRON[9963]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:00:01 hoge-server CRON[9963]: pam_unix(cron:session): session closed for user root
+Sep  7 16:01:01 hoge-server CRON[10331]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:01:01 hoge-server CRON[10331]: pam_unix(cron:session): session closed for user root
+Sep  7 16:02:01 hoge-server CRON[10361]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:02:01 hoge-server CRON[10361]: pam_unix(cron:session): session closed for user root
+Sep  7 16:03:01 hoge-server CRON[10392]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:03:01 hoge-server CRON[10392]: pam_unix(cron:session): session closed for user root
+Sep  7 16:04:01 hoge-server CRON[10422]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:04:01 hoge-server CRON[10422]: pam_unix(cron:session): session closed for user root
+Sep  7 16:05:01 hoge-server CRON[10460]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:05:01 hoge-server CRON[10459]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:05:01 hoge-server CRON[10460]: pam_unix(cron:session): session closed for user root
+Sep  7 16:05:01 hoge-server CRON[10459]: pam_unix(cron:session): session closed for user root
+Sep  7 16:06:01 hoge-server CRON[10479]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:06:01 hoge-server CRON[10479]: pam_unix(cron:session): session closed for user root
+Sep  7 16:07:01 hoge-server CRON[10489]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:07:01 hoge-server CRON[10489]: pam_unix(cron:session): session closed for user root
+Sep  7 16:08:01 hoge-server CRON[10499]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:08:01 hoge-server CRON[10499]: pam_unix(cron:session): session closed for user root
+Sep  7 16:09:01 hoge-server CRON[10511]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:09:01 hoge-server CRON[10510]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:09:01 hoge-server CRON[10510]: pam_unix(cron:session): session closed for user root
+Sep  7 16:09:01 hoge-server CRON[10511]: pam_unix(cron:session): session closed for user root
+Sep  7 16:09:04 hoge-server sshd[2128]: Received disconnect from aaa.bbb.ccc.ddd port 1911:11: disconnected by user
+Sep  7 16:09:04 hoge-server sshd[2128]: Disconnected from user ubuntu aaa.bbb.ccc.ddd port 1911
+Sep  7 16:09:04 hoge-server sshd[1624]: Received disconnect from aaa.bbb.ccc.ddd port 4052:11: disconnected by user
+Sep  7 16:09:04 hoge-server sshd[1624]: Disconnected from user ubuntu aaa.bbb.ccc.ddd port 4052
+Sep  7 16:09:04 hoge-server sshd[1851]: pam_unix(sshd:session): session closed for user ubuntu
+Sep  7 16:09:04 hoge-server sshd[1538]: pam_unix(sshd:session): session closed for user ubuntu
+Sep  7 16:09:04 hoge-server systemd-logind[779]: Removed session 6.
+Sep  7 16:10:01 hoge-server CRON[10593]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:10:01 hoge-server sudo:     root : TTY=unknown ; PWD=/root ; USER=root ; COMMAND=/sbin/shutdown -h 30
+Sep  7 16:10:01 hoge-server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep  7 16:10:01 hoge-server sudo: pam_unix(sudo:session): session closed for user root
+Sep  7 16:10:01 hoge-server CRON[10593]: pam_unix(cron:session): session closed for user root
+Sep  7 16:11:01 hoge-server CRON[10605]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:11:01 hoge-server CRON[10605]: pam_unix(cron:session): session closed for user root
+Sep  7 16:12:01 hoge-server CRON[10614]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:12:01 hoge-server CRON[10614]: pam_unix(cron:session): session closed for user root
+Sep  7 16:13:01 hoge-server CRON[10625]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:13:01 hoge-server CRON[10625]: pam_unix(cron:session): session closed for user root
+Sep  7 16:14:01 hoge-server CRON[10634]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:14:01 hoge-server CRON[10634]: pam_unix(cron:session): session closed for user root
+Sep  7 16:15:01 hoge-server CRON[10644]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:15:01 hoge-server CRON[10643]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:15:01 hoge-server CRON[10644]: pam_unix(cron:session): session closed for user root
+Sep  7 16:15:01 hoge-server CRON[10643]: pam_unix(cron:session): session closed for user root
+Sep  7 16:16:01 hoge-server CRON[10655]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:16:01 hoge-server CRON[10655]: pam_unix(cron:session): session closed for user root
+Sep  7 16:17:01 hoge-server CRON[10665]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:17:01 hoge-server CRON[10664]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:17:01 hoge-server CRON[10664]: pam_unix(cron:session): session closed for user root
+Sep  7 16:17:01 hoge-server CRON[10665]: pam_unix(cron:session): session closed for user root
+Sep  7 16:18:01 hoge-server CRON[10676]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:18:01 hoge-server CRON[10676]: pam_unix(cron:session): session closed for user root
+Sep  7 16:19:01 hoge-server CRON[10687]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:19:01 hoge-server CRON[10687]: pam_unix(cron:session): session closed for user root
+Sep  7 16:20:01 hoge-server CRON[10697]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:20:01 hoge-server CRON[10697]: pam_unix(cron:session): session closed for user root
+Sep  7 16:21:01 hoge-server CRON[10706]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:21:01 hoge-server CRON[10706]: pam_unix(cron:session): session closed for user root
+Sep  7 16:22:01 hoge-server CRON[10715]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:22:01 hoge-server CRON[10715]: pam_unix(cron:session): session closed for user root
+Sep  7 16:23:01 hoge-server CRON[10724]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:23:01 hoge-server CRON[10724]: pam_unix(cron:session): session closed for user root
+Sep  7 16:24:01 hoge-server CRON[10734]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:24:01 hoge-server CRON[10734]: pam_unix(cron:session): session closed for user root
+Sep  7 16:25:01 hoge-server CRON[10745]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:25:01 hoge-server CRON[10744]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:25:01 hoge-server CRON[10745]: pam_unix(cron:session): session closed for user root
+Sep  7 16:25:01 hoge-server CRON[10744]: pam_unix(cron:session): session closed for user root
+Sep  7 16:26:01 hoge-server CRON[10756]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:26:01 hoge-server CRON[10756]: pam_unix(cron:session): session closed for user root
+Sep  7 16:27:01 hoge-server CRON[10765]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:27:01 hoge-server CRON[10765]: pam_unix(cron:session): session closed for user root
+Sep  7 16:28:01 hoge-server CRON[10775]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:28:01 hoge-server CRON[10775]: pam_unix(cron:session): session closed for user root
+Sep  7 16:29:01 hoge-server CRON[10784]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:29:01 hoge-server CRON[10784]: pam_unix(cron:session): session closed for user root
+Sep  7 16:30:01 hoge-server CRON[10793]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:30:01 hoge-server CRON[10793]: pam_unix(cron:session): session closed for user root
+Sep  7 16:31:01 hoge-server CRON[10802]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:31:01 hoge-server CRON[10802]: pam_unix(cron:session): session closed for user root
+Sep  7 16:32:01 hoge-server CRON[10811]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:32:01 hoge-server CRON[10811]: pam_unix(cron:session): session closed for user root
+Sep  7 16:33:01 hoge-server CRON[10821]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:33:01 hoge-server CRON[10821]: pam_unix(cron:session): session closed for user root
+Sep  7 16:34:01 hoge-server CRON[10831]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:34:01 hoge-server CRON[10831]: pam_unix(cron:session): session closed for user root
+Sep  7 16:35:01 hoge-server systemd-logind[779]: Creating /run/nologin, blocking further logins...
+Sep  7 16:35:01 hoge-server CRON[10841]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:35:01 hoge-server CRON[10840]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:35:01 hoge-server CRON[10841]: pam_unix(cron:session): session closed for user root
+Sep  7 16:35:01 hoge-server CRON[10840]: pam_unix(cron:session): session closed for user root
+Sep  7 16:36:01 hoge-server CRON[10852]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:36:01 hoge-server CRON[10852]: pam_unix(cron:session): session closed for user root
+Sep  7 16:37:01 hoge-server CRON[10861]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:37:01 hoge-server CRON[10861]: pam_unix(cron:session): session closed for user root
+Sep  7 16:38:01 hoge-server CRON[10870]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:38:02 hoge-server CRON[10870]: pam_unix(cron:session): session closed for user root
+Sep  7 16:39:02 hoge-server CRON[10950]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:39:02 hoge-server CRON[10951]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:39:02 hoge-server CRON[10950]: pam_unix(cron:session): session closed for user root
+Sep  7 16:39:02 hoge-server CRON[10951]: pam_unix(cron:session): session closed for user root
+Sep  7 16:40:01 hoge-server CRON[10961]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  7 16:40:01 hoge-server CRON[10961]: pam_unix(cron:session): session closed for user root
+Sep  7 16:40:01 hoge-server systemd-logind[779]: System is powering down.
+Sep  7 16:40:02 hoge-server sshd[864]: Received signal 15; terminating.
+Sep  8 02:30:18 hoge-server systemd-logind[783]: Watching system buttons on /dev/input/event0 (Power Button)
+Sep  8 02:30:18 hoge-server systemd-logind[783]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Sep  8 02:30:18 hoge-server systemd-logind[783]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+Sep  8 02:30:18 hoge-server systemd-logind[783]: New seat seat0.
+Sep  8 02:30:18 hoge-server CRON[816]: pam_unix(cron:session): session opened for user ubuntu by (uid=0)
+Sep  8 02:30:18 hoge-server sshd[842]: Server listening on 0.0.0.0 port 22.
+Sep  8 02:30:18 hoge-server sshd[842]: Server listening on :: port 22.
+Sep  8 02:30:19 hoge-server sshd[962]: Did not receive identification string from aaa.bbb.ccc.ddd port 46561
+Sep  8 02:30:20 hoge-server sshd[965]: Accepted publickey for ubuntu from aaa.bbb.ccc.ddd port 46980 ssh2: RSA-CERT ID cc512511-b880-4dc5-a1a6-ddef83d63613 (serial 0) CA RSA SHA256:zfCsd8kXHWlj8xgvbC2eNGsUcoY37rSp6orlunewh4w
+Sep  8 02:30:20 hoge-server sshd[965]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Sep  8 02:30:20 hoge-server systemd-logind[783]: New session 2 of user ubuntu.
+Sep  8 02:30:20 hoge-server systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Sep  8 02:30:21 hoge-server CRON[816]: pam_unix(cron:session): session closed for user ubuntu
+Sep  8 02:30:23 hoge-server sshd[1382]: Received disconnect from aaa.bbb.ccc.ddd port 46980:11: disconnected by user
+Sep  8 02:30:23 hoge-server sshd[1382]: Disconnected from user ubuntu aaa.bbb.ccc.ddd port 46980
+Sep  8 02:30:23 hoge-server systemd-logind[783]: Removed session 2.
+Sep  8 02:30:23 hoge-server sshd[965]: pam_unix(sshd:session): session closed for user ubuntu
+Sep  8 02:30:25 hoge-server sshd[1620]: Accepted publickey for ubuntu from aaa.bbb.ccc.ddd port 54120 ssh2: RSA-CERT ID 42ce2f10-92c2-4fb3-9901-bae6ee4da3d5 (serial 0) CA RSA SHA256:zfCsd8kXHWlj8xgvbC2eNGsUcoY37rSp6orlunewh4w
+Sep  8 02:30:25 hoge-server sshd[1620]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Sep  8 02:30:25 hoge-server systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Sep  8 02:30:25 hoge-server systemd-logind[783]: New session 4 of user ubuntu.
+Sep  8 02:30:26 hoge-server sshd[1783]: Accepted publickey for ubuntu from aaa.bbb.ccc.ddd port 42401 ssh2: RSA-CERT ID e27c97e0-7f70-44bb-a2ba-092a960c14f6 (serial 0) CA RSA SHA256:zfCsd8kXHWlj8xgvbC2eNGsUcoY37rSp6orlunewh4w
+Sep  8 02:30:26 hoge-server sshd[1783]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Sep  8 02:30:26 hoge-server systemd-logind[783]: New session 6 of user ubuntu.
+Sep  8 02:30:27 hoge-server sshd[2306]: Did not receive identification string from aaa.bbb.ccc.ddd port 54320
+Sep  8 02:30:27 hoge-server sshd[2314]: Accepted publickey for ubuntu from aaa.bbb.ccc.ddd port 27709 ssh2: RSA-CERT ID e1ea1058-4176-49f2-8c1f-cebae602c317 (serial 0) CA RSA SHA256:zfCsd8kXHWlj8xgvbC2eNGsUcoY37rSp6orlunewh4w
+Sep  8 02:30:27 hoge-server sshd[2314]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Sep  8 02:30:27 hoge-server systemd-logind[783]: New session 7 of user ubuntu.
+Sep  8 02:30:31 hoge-server sshd[2477]: Received disconnect from aaa.bbb.ccc.ddd port 27709:11: disconnected by user
+Sep  8 02:30:31 hoge-server sshd[2477]: Disconnected from user ubuntu aaa.bbb.ccc.ddd port 27709
+Sep  8 02:30:31 hoge-server sshd[2314]: pam_unix(sshd:session): session closed for user ubuntu
+Sep  8 02:30:31 hoge-server systemd-logind[783]: Removed session 7.
+Sep  8 02:30:32 hoge-server sshd[2649]: Did not receive identification string from aaa.bbb.ccc.ddd port 57488
+Sep  8 02:30:32 hoge-server sshd[2653]: Accepted publickey for ubuntu from aaa.bbb.ccc.ddd port 16476 ssh2: RSA-CERT ID 9be3b3d2-0e74-423e-b322-3d6c4ff8c44f (serial 0) CA RSA SHA256:zfCsd8kXHWlj8xgvbC2eNGsUcoY37rSp6orlunewh4w
+Sep  8 02:30:32 hoge-server sshd[2653]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Sep  8 02:30:32 hoge-server systemd-logind[783]: New session 8 of user ubuntu.
+Sep  8 02:30:35 hoge-server sshd[2793]: Received disconnect from aaa.bbb.ccc.ddd port 16476:11: disconnected by user
+Sep  8 02:30:35 hoge-server sshd[2793]: Disconnected from user ubuntu aaa.bbb.ccc.ddd port 16476
+Sep  8 02:30:35 hoge-server sshd[2653]: pam_unix(sshd:session): session closed for user ubuntu
+Sep  8 02:30:36 hoge-server systemd-logind[783]: Removed session 8.
+Sep  8 02:31:01 hoge-server CRON[2869]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:31:02 hoge-server CRON[2869]: pam_unix(cron:session): session closed for user root
+Sep  8 02:32:01 hoge-server CRON[2900]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:32:01 hoge-server CRON[2900]: pam_unix(cron:session): session closed for user root
+Sep  8 02:33:01 hoge-server CRON[2930]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:33:01 hoge-server CRON[2930]: pam_unix(cron:session): session closed for user root
+Sep  8 02:34:01 hoge-server CRON[2960]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:34:01 hoge-server CRON[2960]: pam_unix(cron:session): session closed for user root
+Sep  8 02:35:01 hoge-server CRON[2991]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:35:01 hoge-server CRON[2990]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:35:01 hoge-server CRON[2991]: pam_unix(cron:session): session closed for user root
+Sep  8 02:35:01 hoge-server CRON[2990]: pam_unix(cron:session): session closed for user root
+Sep  8 02:36:01 hoge-server CRON[3027]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:36:01 hoge-server CRON[3027]: pam_unix(cron:session): session closed for user root
+Sep  8 02:37:01 hoge-server CRON[3057]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:37:01 hoge-server CRON[3057]: pam_unix(cron:session): session closed for user root
+Sep  8 02:38:01 hoge-server CRON[3087]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:38:01 hoge-server CRON[3087]: pam_unix(cron:session): session closed for user root
+Sep  8 02:39:01 hoge-server CRON[3118]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:39:01 hoge-server CRON[3117]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:39:01 hoge-server CRON[3117]: pam_unix(cron:session): session closed for user root
+Sep  8 02:39:01 hoge-server CRON[3118]: pam_unix(cron:session): session closed for user root
+Sep  8 02:40:01 hoge-server CRON[3223]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:40:01 hoge-server CRON[3223]: pam_unix(cron:session): session closed for user root
+Sep  8 02:41:01 hoge-server CRON[3256]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:41:01 hoge-server CRON[3256]: pam_unix(cron:session): session closed for user root
+Sep  8 02:42:01 hoge-server CRON[3286]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:42:01 hoge-server CRON[3286]: pam_unix(cron:session): session closed for user root
+Sep  8 02:43:01 hoge-server CRON[3316]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:43:01 hoge-server CRON[3316]: pam_unix(cron:session): session closed for user root
+Sep  8 02:44:01 hoge-server CRON[3346]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:44:01 hoge-server CRON[3346]: pam_unix(cron:session): session closed for user root
+Sep  8 02:45:01 hoge-server CRON[3377]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:45:01 hoge-server CRON[3376]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:45:01 hoge-server CRON[3377]: pam_unix(cron:session): session closed for user root
+Sep  8 02:45:01 hoge-server CRON[3376]: pam_unix(cron:session): session closed for user root
+Sep  8 02:46:01 hoge-server CRON[3433]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:46:01 hoge-server CRON[3433]: pam_unix(cron:session): session closed for user root
+Sep  8 02:47:01 hoge-server CRON[3464]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:47:01 hoge-server CRON[3464]: pam_unix(cron:session): session closed for user root
+Sep  8 02:48:01 hoge-server CRON[3494]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:48:01 hoge-server CRON[3494]: pam_unix(cron:session): session closed for user root
+Sep  8 02:49:01 hoge-server CRON[3524]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:49:01 hoge-server CRON[3524]: pam_unix(cron:session): session closed for user root
+Sep  8 02:50:01 hoge-server CRON[3554]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:50:01 hoge-server CRON[3554]: pam_unix(cron:session): session closed for user root
+Sep  8 02:51:01 hoge-server CRON[3890]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:51:01 hoge-server CRON[3890]: pam_unix(cron:session): session closed for user root
+Sep  8 02:52:01 hoge-server CRON[4004]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:52:01 hoge-server CRON[4004]: pam_unix(cron:session): session closed for user root
+Sep  8 02:53:01 hoge-server CRON[4101]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:53:01 hoge-server CRON[4101]: pam_unix(cron:session): session closed for user root
+Sep  8 02:54:01 hoge-server CRON[4196]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:54:01 hoge-server CRON[4196]: pam_unix(cron:session): session closed for user root
+Sep  8 02:55:01 hoge-server CRON[4267]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:55:01 hoge-server CRON[4266]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:55:01 hoge-server CRON[4267]: pam_unix(cron:session): session closed for user root
+Sep  8 02:55:01 hoge-server CRON[4266]: pam_unix(cron:session): session closed for user root
+Sep  8 02:56:01 hoge-server CRON[4343]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:56:01 hoge-server CRON[4343]: pam_unix(cron:session): session closed for user root
+Sep  8 02:57:01 hoge-server CRON[4402]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:57:01 hoge-server CRON[4402]: pam_unix(cron:session): session closed for user root
+Sep  8 02:58:01 hoge-server CRON[4490]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:58:01 hoge-server CRON[4490]: pam_unix(cron:session): session closed for user root
+Sep  8 02:59:01 hoge-server CRON[4580]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 02:59:01 hoge-server CRON[4580]: pam_unix(cron:session): session closed for user root
+Sep  8 03:00:01 hoge-server CRON[4739]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:00:01 hoge-server CRON[4739]: pam_unix(cron:session): session closed for user root
+Sep  8 03:01:01 hoge-server CRON[4841]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:01:01 hoge-server CRON[4841]: pam_unix(cron:session): session closed for user root
+Sep  8 03:02:01 hoge-server CRON[4959]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:02:01 hoge-server CRON[4959]: pam_unix(cron:session): session closed for user root
+Sep  8 03:03:01 hoge-server CRON[5040]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:03:01 hoge-server CRON[5040]: pam_unix(cron:session): session closed for user root
+Sep  8 03:04:01 hoge-server CRON[5084]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:04:01 hoge-server CRON[5084]: pam_unix(cron:session): session closed for user root
+Sep  8 03:05:01 hoge-server CRON[5114]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:05:01 hoge-server CRON[5115]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:05:01 hoge-server CRON[5115]: pam_unix(cron:session): session closed for user root
+Sep  8 03:05:01 hoge-server CRON[5114]: pam_unix(cron:session): session closed for user root
+Sep  8 03:06:01 hoge-server CRON[5150]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:06:01 hoge-server CRON[5150]: pam_unix(cron:session): session closed for user root
+Sep  8 03:07:01 hoge-server CRON[5180]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:07:01 hoge-server CRON[5180]: pam_unix(cron:session): session closed for user root
+Sep  8 03:08:01 hoge-server CRON[5206]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:08:01 hoge-server CRON[5206]: pam_unix(cron:session): session closed for user root
+Sep  8 03:09:01 hoge-server CRON[5237]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:09:01 hoge-server CRON[5236]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:09:01 hoge-server CRON[5236]: pam_unix(cron:session): session closed for user root
+Sep  8 03:09:01 hoge-server CRON[5237]: pam_unix(cron:session): session closed for user root
+Sep  8 03:10:01 hoge-server CRON[5388]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:10:01 hoge-server CRON[5388]: pam_unix(cron:session): session closed for user root
+Sep  8 03:11:01 hoge-server CRON[5420]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:11:01 hoge-server CRON[5420]: pam_unix(cron:session): session closed for user root
+Sep  8 03:12:01 hoge-server CRON[5447]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:12:01 hoge-server CRON[5447]: pam_unix(cron:session): session closed for user root
+Sep  8 03:13:01 hoge-server CRON[5477]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:13:01 hoge-server CRON[5477]: pam_unix(cron:session): session closed for user root
+Sep  8 03:14:01 hoge-server CRON[5507]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:14:01 hoge-server CRON[5507]: pam_unix(cron:session): session closed for user root
+Sep  8 03:15:01 hoge-server CRON[5538]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:15:01 hoge-server CRON[5537]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:15:01 hoge-server CRON[5538]: pam_unix(cron:session): session closed for user root
+Sep  8 03:15:01 hoge-server CRON[5537]: pam_unix(cron:session): session closed for user root
+Sep  8 03:16:01 hoge-server CRON[5569]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:16:02 hoge-server CRON[5569]: pam_unix(cron:session): session closed for user root
+Sep  8 03:17:01 hoge-server CRON[5601]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:17:01 hoge-server CRON[5600]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:17:01 hoge-server CRON[5600]: pam_unix(cron:session): session closed for user root
+Sep  8 03:17:01 hoge-server CRON[5601]: pam_unix(cron:session): session closed for user root
+Sep  8 03:18:01 hoge-server CRON[5633]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:18:01 hoge-server CRON[5633]: pam_unix(cron:session): session closed for user root
+Sep  8 03:19:01 hoge-server CRON[5663]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:19:01 hoge-server CRON[5663]: pam_unix(cron:session): session closed for user root
+Sep  8 03:20:01 hoge-server CRON[5689]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:20:01 hoge-server CRON[5689]: pam_unix(cron:session): session closed for user root
+Sep  8 03:21:01 hoge-server CRON[5721]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:21:01 hoge-server CRON[5721]: pam_unix(cron:session): session closed for user root
+Sep  8 03:22:01 hoge-server CRON[5752]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:22:01 hoge-server CRON[5752]: pam_unix(cron:session): session closed for user root
+Sep  8 03:23:01 hoge-server CRON[5782]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:23:01 hoge-server CRON[5782]: pam_unix(cron:session): session closed for user root
+Sep  8 03:24:01 hoge-server CRON[5808]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:24:01 hoge-server CRON[5808]: pam_unix(cron:session): session closed for user root
+Sep  8 03:25:01 hoge-server CRON[5838]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:25:01 hoge-server CRON[5839]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:25:01 hoge-server CRON[5839]: pam_unix(cron:session): session closed for user root
+Sep  8 03:25:01 hoge-server CRON[5838]: pam_unix(cron:session): session closed for user root
+Sep  8 03:26:01 hoge-server CRON[5873]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:26:01 hoge-server CRON[5873]: pam_unix(cron:session): session closed for user root
+Sep  8 03:27:01 hoge-server CRON[5903]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:27:01 hoge-server CRON[5903]: pam_unix(cron:session): session closed for user root
+Sep  8 03:28:01 hoge-server CRON[5930]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:28:01 hoge-server CRON[5930]: pam_unix(cron:session): session closed for user root
+Sep  8 03:29:01 hoge-server CRON[5960]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:29:01 hoge-server CRON[5960]: pam_unix(cron:session): session closed for user root
+Sep  8 03:30:01 hoge-server CRON[5990]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:30:01 hoge-server CRON[5990]: pam_unix(cron:session): session closed for user root
+Sep  8 03:31:01 hoge-server CRON[6023]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:31:01 hoge-server CRON[6023]: pam_unix(cron:session): session closed for user root
+Sep  8 03:32:01 hoge-server CRON[6050]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:32:01 hoge-server CRON[6050]: pam_unix(cron:session): session closed for user root
+Sep  8 03:33:01 hoge-server CRON[6080]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:33:01 hoge-server CRON[6080]: pam_unix(cron:session): session closed for user root
+Sep  8 03:34:01 hoge-server CRON[6110]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:34:01 hoge-server CRON[6110]: pam_unix(cron:session): session closed for user root
+Sep  8 03:35:01 hoge-server CRON[6141]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:35:01 hoge-server CRON[6140]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:35:01 hoge-server CRON[6141]: pam_unix(cron:session): session closed for user root
+Sep  8 03:35:01 hoge-server CRON[6140]: pam_unix(cron:session): session closed for user root
+Sep  8 03:36:01 hoge-server CRON[6171]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:36:01 hoge-server CRON[6171]: pam_unix(cron:session): session closed for user root
+Sep  8 03:37:01 hoge-server CRON[6201]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:37:01 hoge-server CRON[6201]: pam_unix(cron:session): session closed for user root
+Sep  8 03:38:01 hoge-server CRON[6232]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:38:01 hoge-server CRON[6232]: pam_unix(cron:session): session closed for user root
+Sep  8 03:39:01 hoge-server CRON[6263]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:39:01 hoge-server CRON[6262]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:39:01 hoge-server CRON[6262]: pam_unix(cron:session): session closed for user root
+Sep  8 03:39:01 hoge-server CRON[6263]: pam_unix(cron:session): session closed for user root
+Sep  8 03:40:01 hoge-server CRON[6360]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:40:01 hoge-server CRON[6360]: pam_unix(cron:session): session closed for user root
+Sep  8 03:41:01 hoge-server CRON[6392]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:41:01 hoge-server CRON[6392]: pam_unix(cron:session): session closed for user root
+Sep  8 03:42:01 hoge-server CRON[6423]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:42:01 hoge-server CRON[6423]: pam_unix(cron:session): session closed for user root
+Sep  8 03:43:01 hoge-server CRON[6453]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:43:01 hoge-server CRON[6453]: pam_unix(cron:session): session closed for user root
+Sep  8 03:44:01 hoge-server CRON[6479]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:44:01 hoge-server CRON[6479]: pam_unix(cron:session): session closed for user root
+Sep  8 03:45:01 hoge-server CRON[6510]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:45:01 hoge-server CRON[6509]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:45:01 hoge-server CRON[6510]: pam_unix(cron:session): session closed for user root
+Sep  8 03:45:01 hoge-server CRON[6509]: pam_unix(cron:session): session closed for user root
+Sep  8 03:46:01 hoge-server CRON[6544]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:46:01 hoge-server CRON[6544]: pam_unix(cron:session): session closed for user root
+Sep  8 03:47:01 hoge-server CRON[6574]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:47:01 hoge-server CRON[6574]: pam_unix(cron:session): session closed for user root
+Sep  8 03:48:01 hoge-server CRON[6601]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:48:01 hoge-server CRON[6601]: pam_unix(cron:session): session closed for user root
+Sep  8 03:49:01 hoge-server CRON[6631]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:49:01 hoge-server CRON[6631]: pam_unix(cron:session): session closed for user root
+Sep  8 03:50:01 hoge-server CRON[6661]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:50:01 hoge-server CRON[6661]: pam_unix(cron:session): session closed for user root
+Sep  8 03:51:01 hoge-server CRON[6693]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:51:01 hoge-server CRON[6693]: pam_unix(cron:session): session closed for user root
+Sep  8 03:52:01 hoge-server CRON[6720]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:52:01 hoge-server CRON[6720]: pam_unix(cron:session): session closed for user root
+Sep  8 03:53:01 hoge-server CRON[6750]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:53:01 hoge-server CRON[6750]: pam_unix(cron:session): session closed for user root
+Sep  8 03:54:01 hoge-server CRON[6780]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:54:01 hoge-server CRON[6780]: pam_unix(cron:session): session closed for user root
+Sep  8 03:55:01 hoge-server CRON[6811]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:55:01 hoge-server CRON[6810]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:55:01 hoge-server CRON[6811]: pam_unix(cron:session): session closed for user root
+Sep  8 03:55:01 hoge-server CRON[6810]: pam_unix(cron:session): session closed for user root
+Sep  8 03:56:01 hoge-server CRON[6841]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:56:01 hoge-server CRON[6841]: pam_unix(cron:session): session closed for user root
+Sep  8 03:57:01 hoge-server CRON[6871]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:57:01 hoge-server CRON[6871]: pam_unix(cron:session): session closed for user root
+Sep  8 03:58:01 hoge-server CRON[6902]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:58:01 hoge-server CRON[6902]: pam_unix(cron:session): session closed for user root
+Sep  8 03:59:01 hoge-server CRON[6934]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 03:59:01 hoge-server CRON[6934]: pam_unix(cron:session): session closed for user root
+Sep  8 04:00:01 hoge-server CRON[6966]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:00:01 hoge-server CRON[6966]: pam_unix(cron:session): session closed for user root
+Sep  8 04:01:01 hoge-server CRON[7002]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:01:01 hoge-server CRON[7002]: pam_unix(cron:session): session closed for user root
+Sep  8 04:02:01 hoge-server CRON[7036]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:02:01 hoge-server CRON[7036]: pam_unix(cron:session): session closed for user root
+Sep  8 04:03:01 hoge-server CRON[7081]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:03:01 hoge-server CRON[7081]: pam_unix(cron:session): session closed for user root
+Sep  8 04:04:01 hoge-server CRON[7118]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:04:02 hoge-server CRON[7118]: pam_unix(cron:session): session closed for user root
+Sep  8 04:05:01 hoge-server CRON[7151]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:05:01 hoge-server CRON[7150]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:05:01 hoge-server CRON[7151]: pam_unix(cron:session): session closed for user root
+Sep  8 04:05:01 hoge-server CRON[7150]: pam_unix(cron:session): session closed for user root
+Sep  8 04:06:01 hoge-server CRON[7189]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:06:01 hoge-server CRON[7189]: pam_unix(cron:session): session closed for user root
+Sep  8 04:07:01 hoge-server CRON[7224]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:07:01 hoge-server CRON[7224]: pam_unix(cron:session): session closed for user root
+Sep  8 04:08:01 hoge-server CRON[7257]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:08:01 hoge-server CRON[7257]: pam_unix(cron:session): session closed for user root
+Sep  8 04:09:01 hoge-server CRON[7291]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:09:01 hoge-server CRON[7290]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:09:01 hoge-server CRON[7290]: pam_unix(cron:session): session closed for user root
+Sep  8 04:09:01 hoge-server CRON[7291]: pam_unix(cron:session): session closed for user root
+Sep  8 04:10:01 hoge-server CRON[7393]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:10:01 hoge-server CRON[7393]: pam_unix(cron:session): session closed for user root
+Sep  8 04:11:01 hoge-server CRON[7564]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:11:01 hoge-server CRON[7564]: pam_unix(cron:session): session closed for user root
+Sep  8 04:12:01 hoge-server CRON[7647]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:12:01 hoge-server CRON[7647]: pam_unix(cron:session): session closed for user root
+Sep  8 04:13:01 hoge-server CRON[7747]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:13:01 hoge-server CRON[7747]: pam_unix(cron:session): session closed for user root
+Sep  8 04:14:01 hoge-server CRON[7954]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:14:01 hoge-server CRON[7954]: pam_unix(cron:session): session closed for user root
+Sep  8 04:15:01 hoge-server CRON[8252]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:15:01 hoge-server CRON[8251]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:15:01 hoge-server CRON[8252]: pam_unix(cron:session): session closed for user root
+Sep  8 04:15:01 hoge-server CRON[8251]: pam_unix(cron:session): session closed for user root
+Sep  8 04:16:01 hoge-server CRON[8298]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:16:01 hoge-server CRON[8298]: pam_unix(cron:session): session closed for user root
+Sep  8 04:17:01 hoge-server CRON[8329]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:17:01 hoge-server CRON[8328]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:17:01 hoge-server CRON[8328]: pam_unix(cron:session): session closed for user root
+Sep  8 04:17:01 hoge-server CRON[8329]: pam_unix(cron:session): session closed for user root
+Sep  8 04:18:01 hoge-server CRON[8380]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:18:01 hoge-server CRON[8380]: pam_unix(cron:session): session closed for user root
+Sep  8 04:19:01 hoge-server CRON[8421]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:19:01 hoge-server CRON[8421]: pam_unix(cron:session): session closed for user root
+Sep  8 04:20:01 hoge-server CRON[8501]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:20:01 hoge-server CRON[8501]: pam_unix(cron:session): session closed for user root
+Sep  8 04:21:01 hoge-server CRON[8551]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:21:01 hoge-server CRON[8551]: pam_unix(cron:session): session closed for user root
+Sep  8 04:22:01 hoge-server CRON[8577]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:22:01 hoge-server CRON[8577]: pam_unix(cron:session): session closed for user root
+Sep  8 04:23:01 hoge-server CRON[8589]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:23:01 hoge-server CRON[8589]: pam_unix(cron:session): session closed for user root
+Sep  8 04:24:01 hoge-server CRON[8600]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:24:01 hoge-server CRON[8600]: pam_unix(cron:session): session closed for user root
+Sep  8 04:25:01 hoge-server CRON[8611]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:25:01 hoge-server CRON[8610]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:25:01 hoge-server CRON[8611]: pam_unix(cron:session): session closed for user root
+Sep  8 04:25:01 hoge-server CRON[8610]: pam_unix(cron:session): session closed for user root
+Sep  8 04:25:05 hoge-server sshd[1732]: Received disconnect from aaa.bbb.ccc.ddd port 54120:11: disconnected by user
+Sep  8 04:25:05 hoge-server sshd[1732]: Disconnected from user ubuntu aaa.bbb.ccc.ddd port 54120
+Sep  8 04:25:05 hoge-server sshd[1620]: pam_unix(sshd:session): session closed for user ubuntu
+Sep  8 04:25:05 hoge-server sshd[2446]: Received disconnect from aaa.bbb.ccc.ddd port 42401:11: disconnected by user
+Sep  8 04:25:05 hoge-server sshd[2446]: Disconnected from user ubuntu aaa.bbb.ccc.ddd port 42401
+Sep  8 04:25:05 hoge-server sshd[1783]: pam_unix(sshd:session): session closed for user ubuntu
+Sep  8 04:25:05 hoge-server systemd-logind[783]: Removed session 6.
+Sep  8 04:26:01 hoge-server CRON[8625]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:26:01 hoge-server sudo:     root : TTY=unknown ; PWD=/root ; USER=root ; COMMAND=/sbin/shutdown -h 30
+Sep  8 04:26:01 hoge-server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep  8 04:26:01 hoge-server sudo: pam_unix(sudo:session): session closed for user root
+Sep  8 04:26:01 hoge-server CRON[8625]: pam_unix(cron:session): session closed for user root
+Sep  8 04:27:01 hoge-server CRON[8637]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:27:01 hoge-server CRON[8637]: pam_unix(cron:session): session closed for user root
+Sep  8 04:28:01 hoge-server CRON[8648]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:28:01 hoge-server CRON[8648]: pam_unix(cron:session): session closed for user root
+Sep  8 04:29:01 hoge-server CRON[8657]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:29:01 hoge-server CRON[8657]: pam_unix(cron:session): session closed for user root
+Sep  8 04:30:01 hoge-server CRON[8666]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:30:01 hoge-server CRON[8666]: pam_unix(cron:session): session closed for user root
+Sep  8 04:31:01 hoge-server CRON[8677]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:31:01 hoge-server CRON[8677]: pam_unix(cron:session): session closed for user root
+Sep  8 04:32:01 hoge-server CRON[8686]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:32:01 hoge-server CRON[8686]: pam_unix(cron:session): session closed for user root
+Sep  8 04:33:01 hoge-server CRON[8695]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:33:01 hoge-server CRON[8695]: pam_unix(cron:session): session closed for user root
+Sep  8 04:34:01 hoge-server CRON[8705]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:34:01 hoge-server CRON[8705]: pam_unix(cron:session): session closed for user root
+Sep  8 04:35:01 hoge-server CRON[8715]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:35:01 hoge-server CRON[8714]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:35:01 hoge-server CRON[8715]: pam_unix(cron:session): session closed for user root
+Sep  8 04:35:01 hoge-server CRON[8714]: pam_unix(cron:session): session closed for user root
+Sep  8 04:36:01 hoge-server CRON[8727]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:36:01 hoge-server CRON[8727]: pam_unix(cron:session): session closed for user root
+Sep  8 04:37:01 hoge-server CRON[8736]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:37:01 hoge-server CRON[8736]: pam_unix(cron:session): session closed for user root
+Sep  8 04:38:01 hoge-server CRON[8746]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:38:01 hoge-server CRON[8746]: pam_unix(cron:session): session closed for user root
+Sep  8 04:39:01 hoge-server CRON[8756]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:39:01 hoge-server CRON[8755]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:39:01 hoge-server CRON[8755]: pam_unix(cron:session): session closed for user root
+Sep  8 04:39:01 hoge-server CRON[8756]: pam_unix(cron:session): session closed for user root
+Sep  8 04:40:01 hoge-server CRON[8835]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:40:01 hoge-server CRON[8835]: pam_unix(cron:session): session closed for user root
+Sep  8 04:41:01 hoge-server CRON[8844]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:41:01 hoge-server CRON[8844]: pam_unix(cron:session): session closed for user root
+Sep  8 04:42:01 hoge-server CRON[8854]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:42:01 hoge-server CRON[8854]: pam_unix(cron:session): session closed for user root
+Sep  8 04:43:01 hoge-server CRON[8863]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:43:01 hoge-server CRON[8863]: pam_unix(cron:session): session closed for user root
+Sep  8 04:44:01 hoge-server CRON[8873]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:44:01 hoge-server CRON[8873]: pam_unix(cron:session): session closed for user root
+Sep  8 04:45:01 hoge-server CRON[8883]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:45:01 hoge-server CRON[8882]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:45:01 hoge-server CRON[8883]: pam_unix(cron:session): session closed for user root
+Sep  8 04:45:01 hoge-server CRON[8882]: pam_unix(cron:session): session closed for user root
+Sep  8 04:46:01 hoge-server CRON[8894]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:46:01 hoge-server CRON[8894]: pam_unix(cron:session): session closed for user root
+Sep  8 04:47:01 hoge-server CRON[8903]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:47:01 hoge-server CRON[8903]: pam_unix(cron:session): session closed for user root
+Sep  8 04:48:01 hoge-server CRON[8912]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:48:01 hoge-server CRON[8912]: pam_unix(cron:session): session closed for user root
+Sep  8 04:49:01 hoge-server CRON[8922]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:49:01 hoge-server CRON[8922]: pam_unix(cron:session): session closed for user root
+Sep  8 04:50:01 hoge-server CRON[8931]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:50:02 hoge-server CRON[8931]: pam_unix(cron:session): session closed for user root
+Sep  8 04:51:01 hoge-server systemd-logind[783]: Creating /run/nologin, blocking further logins...
+Sep  8 04:51:02 hoge-server CRON[8940]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:51:02 hoge-server CRON[8940]: pam_unix(cron:session): session closed for user root
+Sep  8 04:52:01 hoge-server CRON[8949]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:52:01 hoge-server CRON[8949]: pam_unix(cron:session): session closed for user root
+Sep  8 04:53:01 hoge-server CRON[8958]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:53:01 hoge-server CRON[8958]: pam_unix(cron:session): session closed for user root
+Sep  8 04:54:01 hoge-server CRON[8968]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:54:01 hoge-server CRON[8968]: pam_unix(cron:session): session closed for user root
+Sep  8 04:55:01 hoge-server CRON[8978]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:55:01 hoge-server CRON[8977]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:55:01 hoge-server CRON[8978]: pam_unix(cron:session): session closed for user root
+Sep  8 04:55:01 hoge-server CRON[8977]: pam_unix(cron:session): session closed for user root
+Sep  8 04:56:01 hoge-server CRON[8990]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 04:56:01 hoge-server CRON[8990]: pam_unix(cron:session): session closed for user root
+Sep  8 04:56:01 hoge-server systemd-logind[783]: System is powering down.
+Sep  8 04:56:01 hoge-server systemd: pam_unix(systemd-user:session): session closed for user ubuntu
+Sep  8 04:56:01 hoge-server sshd[842]: Received signal 15; terminating.
+Sep  8 14:04:45 hoge-server CRON[800]: pam_unix(cron:session): session opened for user ubuntu by (uid=0)
+Sep  8 14:04:45 hoge-server sshd[871]: Server listening on 0.0.0.0 port 22.
+Sep  8 14:04:45 hoge-server sshd[871]: Server listening on :: port 22.
+Sep  8 14:04:45 hoge-server systemd-logind[831]: Watching system buttons on /dev/input/event0 (Power Button)
+Sep  8 14:04:45 hoge-server systemd-logind[831]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Sep  8 14:04:45 hoge-server sshd[884]: Did not receive identification string from aaa.bbb.ccc.ddd port 6212
+Sep  8 14:04:45 hoge-server systemd-logind[831]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+Sep  8 14:04:45 hoge-server systemd-logind[831]: New seat seat0.
+Sep  8 14:04:46 hoge-server sshd[892]: Accepted publickey for ubuntu from aaa.bbb.ccc.ddd port 3539 ssh2: RSA-CERT ID b14950ed-6993-454e-8b67-2727d72d5162 (serial 0) CA RSA SHA256:zfCsd8kXHWlj8xgvbC2eNGsUcoY37rSp6orlunewh4w
+Sep  8 14:04:46 hoge-server sshd[892]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Sep  8 14:04:46 hoge-server systemd-logind[831]: New session 2 of user ubuntu.
+Sep  8 14:04:46 hoge-server systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Sep  8 14:04:48 hoge-server CRON[800]: pam_unix(cron:session): session closed for user ubuntu
+Sep  8 14:04:51 hoge-server sshd[1478]: Received disconnect from aaa.bbb.ccc.ddd port 3539:11: disconnected by user
+Sep  8 14:04:51 hoge-server sshd[1478]: Disconnected from user ubuntu aaa.bbb.ccc.ddd port 3539
+Sep  8 14:04:51 hoge-server sshd[892]: pam_unix(sshd:session): session closed for user ubuntu
+Sep  8 14:04:52 hoge-server sshd[1665]: Accepted publickey for ubuntu from aaa.bbb.ccc.ddd port 24764 ssh2: RSA-CERT ID a56ef117-f4ee-41de-8819-5edbc948d4aa (serial 0) CA RSA SHA256:zfCsd8kXHWlj8xgvbC2eNGsUcoY37rSp6orlunewh4w
+Sep  8 14:04:52 hoge-server sshd[1665]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Sep  8 14:04:52 hoge-server systemd-logind[831]: New session 4 of user ubuntu.
+Sep  8 14:04:53 hoge-server systemd-logind[831]: Removed session 2.
+Sep  8 14:04:55 hoge-server sshd[2042]: Did not receive identification string from aaa.bbb.ccc.ddd port 37315
+Sep  8 14:04:55 hoge-server sshd[2047]: Accepted publickey for ubuntu from aaa.bbb.ccc.ddd port 13360 ssh2: RSA-CERT ID 140b5805-3fee-4c14-a1e7-d52c05a7d5ea (serial 0) CA RSA SHA256:zfCsd8kXHWlj8xgvbC2eNGsUcoY37rSp6orlunewh4w
+Sep  8 14:04:55 hoge-server sshd[2047]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Sep  8 14:04:55 hoge-server systemd-logind[831]: New session 5 of user ubuntu.
+Sep  8 14:04:58 hoge-server sshd[2302]: Received disconnect from aaa.bbb.ccc.ddd port 13360:11: disconnected by user
+Sep  8 14:04:58 hoge-server sshd[2302]: Disconnected from user ubuntu aaa.bbb.ccc.ddd port 13360
+Sep  8 14:04:58 hoge-server sshd[2047]: pam_unix(sshd:session): session closed for user ubuntu
+Sep  8 14:04:58 hoge-server systemd-logind[831]: Removed session 5.
+Sep  8 14:05:00 hoge-server CRON[2414]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:05:00 hoge-server CRON[2413]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:05:00 hoge-server CRON[2414]: pam_unix(cron:session): session closed for user root
+Sep  8 14:05:00 hoge-server CRON[2413]: pam_unix(cron:session): session closed for user root
+Sep  8 14:05:08 hoge-server sshd[7617]: Accepted publickey for ubuntu from aaa.bbb.ccc.ddd port 53518 ssh2: RSA-CERT ID d2d0cc48-029b-4858-977d-3f81d3773202 (serial 0) CA RSA SHA256:zfCsd8kXHWlj8xgvbC2eNGsUcoY37rSp6orlunewh4w
+Sep  8 14:05:08 hoge-server sshd[7617]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Sep  8 14:05:08 hoge-server systemd-logind[831]: New session 8 of user ubuntu.
+Sep  8 14:06:01 hoge-server CRON[10371]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:06:01 hoge-server CRON[10371]: pam_unix(cron:session): session closed for user root
+Sep  8 14:07:01 hoge-server CRON[10401]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:07:01 hoge-server CRON[10401]: pam_unix(cron:session): session closed for user root
+Sep  8 14:08:01 hoge-server CRON[10431]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:08:01 hoge-server CRON[10431]: pam_unix(cron:session): session closed for user root
+Sep  8 14:09:01 hoge-server CRON[10462]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:09:01 hoge-server CRON[10461]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:09:01 hoge-server CRON[10461]: pam_unix(cron:session): session closed for user root
+Sep  8 14:09:01 hoge-server CRON[10462]: pam_unix(cron:session): session closed for user root
+Sep  8 14:10:01 hoge-server CRON[10560]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:10:01 hoge-server CRON[10560]: pam_unix(cron:session): session closed for user root
+Sep  8 14:11:01 hoge-server CRON[10592]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:11:01 hoge-server CRON[10592]: pam_unix(cron:session): session closed for user root
+Sep  8 14:12:01 hoge-server CRON[10622]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:12:01 hoge-server CRON[10622]: pam_unix(cron:session): session closed for user root
+Sep  8 14:13:01 hoge-server CRON[10652]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:13:02 hoge-server CRON[10652]: pam_unix(cron:session): session closed for user root
+Sep  8 14:14:01 hoge-server CRON[10678]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:14:01 hoge-server CRON[10678]: pam_unix(cron:session): session closed for user root
+Sep  8 14:15:01 hoge-server CRON[10709]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:15:01 hoge-server CRON[10710]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:15:01 hoge-server CRON[10710]: pam_unix(cron:session): session closed for user root
+Sep  8 14:15:01 hoge-server CRON[10709]: pam_unix(cron:session): session closed for user root
+Sep  8 14:16:01 hoge-server CRON[10744]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:16:01 hoge-server CRON[10744]: pam_unix(cron:session): session closed for user root
+Sep  8 14:17:01 hoge-server CRON[10774]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:17:01 hoge-server CRON[10775]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:17:01 hoge-server CRON[10774]: pam_unix(cron:session): session closed for user root
+Sep  8 14:17:01 hoge-server CRON[10775]: pam_unix(cron:session): session closed for user root
+Sep  8 14:18:01 hoge-server CRON[10803]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:18:01 hoge-server CRON[10803]: pam_unix(cron:session): session closed for user root
+Sep  8 14:19:01 hoge-server CRON[10833]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:19:01 hoge-server CRON[10833]: pam_unix(cron:session): session closed for user root
+Sep  8 14:20:01 hoge-server CRON[10937]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:20:01 hoge-server CRON[10937]: pam_unix(cron:session): session closed for user root
+Sep  8 14:21:01 hoge-server CRON[10969]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:21:01 hoge-server CRON[10969]: pam_unix(cron:session): session closed for user root
+Sep  8 14:22:01 hoge-server CRON[10995]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:22:01 hoge-server CRON[10995]: pam_unix(cron:session): session closed for user root
+Sep  8 14:23:01 hoge-server CRON[11025]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:23:01 hoge-server CRON[11025]: pam_unix(cron:session): session closed for user root
+Sep  8 14:24:01 hoge-server CRON[11055]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:24:01 hoge-server CRON[11055]: pam_unix(cron:session): session closed for user root
+Sep  8 14:25:01 hoge-server CRON[11086]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:25:01 hoge-server CRON[11085]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:25:01 hoge-server CRON[11086]: pam_unix(cron:session): session closed for user root
+Sep  8 14:25:01 hoge-server CRON[11085]: pam_unix(cron:session): session closed for user root
+Sep  8 14:26:01 hoge-server CRON[11117]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:26:01 hoge-server CRON[11117]: pam_unix(cron:session): session closed for user root
+Sep  8 14:27:01 hoge-server CRON[11147]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:27:01 hoge-server CRON[11147]: pam_unix(cron:session): session closed for user root
+Sep  8 14:28:01 hoge-server CRON[11177]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:28:01 hoge-server CRON[11177]: pam_unix(cron:session): session closed for user root
+Sep  8 14:29:01 hoge-server CRON[11207]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:29:01 hoge-server CRON[11207]: pam_unix(cron:session): session closed for user root
+Sep  8 14:30:01 hoge-server CRON[11234]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:30:01 hoge-server CRON[11234]: pam_unix(cron:session): session closed for user root
+Sep  8 14:31:01 hoge-server CRON[11266]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:31:01 hoge-server CRON[11266]: pam_unix(cron:session): session closed for user root
+Sep  8 14:32:01 hoge-server CRON[11296]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:32:01 hoge-server CRON[11296]: pam_unix(cron:session): session closed for user root
+Sep  8 14:33:01 hoge-server CRON[11326]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:33:01 hoge-server CRON[11326]: pam_unix(cron:session): session closed for user root
+Sep  8 14:34:01 hoge-server CRON[11352]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:34:01 hoge-server CRON[11352]: pam_unix(cron:session): session closed for user root
+Sep  8 14:35:01 hoge-server CRON[11384]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:35:01 hoge-server CRON[11383]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:35:01 hoge-server CRON[11384]: pam_unix(cron:session): session closed for user root
+Sep  8 14:35:01 hoge-server CRON[11383]: pam_unix(cron:session): session closed for user root
+Sep  8 14:35:05 hoge-server sshd[1751]: Received disconnect from aaa.bbb.ccc.ddd port 24764:11: disconnected by user
+Sep  8 14:35:05 hoge-server sshd[1751]: Disconnected from user ubuntu aaa.bbb.ccc.ddd port 24764
+Sep  8 14:35:05 hoge-server sshd[1665]: pam_unix(sshd:session): session closed for user ubuntu
+Sep  8 14:35:05 hoge-server sshd[8263]: Received disconnect from aaa.bbb.ccc.ddd port 53518:11: disconnected by user
+Sep  8 14:35:05 hoge-server sshd[8263]: Disconnected from user ubuntu aaa.bbb.ccc.ddd port 53518
+Sep  8 14:35:05 hoge-server sshd[7617]: pam_unix(sshd:session): session closed for user ubuntu
+Sep  8 14:35:05 hoge-server systemd-logind[831]: Removed session 8.
+Sep  8 14:36:01 hoge-server CRON[11401]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:36:01 hoge-server sudo:     root : TTY=unknown ; PWD=/root ; USER=root ; COMMAND=/sbin/shutdown -h 30
+Sep  8 14:36:01 hoge-server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep  8 14:36:01 hoge-server sudo: pam_unix(sudo:session): session closed for user root
+Sep  8 14:36:01 hoge-server CRON[11401]: pam_unix(cron:session): session closed for user root
+Sep  8 14:37:01 hoge-server CRON[11413]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:37:01 hoge-server CRON[11413]: pam_unix(cron:session): session closed for user root
+Sep  8 14:38:01 hoge-server CRON[11422]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:38:01 hoge-server CRON[11422]: pam_unix(cron:session): session closed for user root
+Sep  8 14:39:01 hoge-server CRON[11432]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:39:01 hoge-server CRON[11431]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:39:01 hoge-server CRON[11431]: pam_unix(cron:session): session closed for user root
+Sep  8 14:39:01 hoge-server CRON[11432]: pam_unix(cron:session): session closed for user root
+Sep  8 14:40:01 hoge-server CRON[11513]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:40:01 hoge-server CRON[11513]: pam_unix(cron:session): session closed for user root
+Sep  8 14:41:01 hoge-server CRON[11522]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:41:01 hoge-server CRON[11522]: pam_unix(cron:session): session closed for user root
+Sep  8 14:42:01 hoge-server CRON[11531]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:42:01 hoge-server CRON[11531]: pam_unix(cron:session): session closed for user root
+Sep  8 14:43:01 hoge-server CRON[11540]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:43:01 hoge-server CRON[11540]: pam_unix(cron:session): session closed for user root
+Sep  8 14:44:01 hoge-server CRON[11549]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:44:01 hoge-server CRON[11549]: pam_unix(cron:session): session closed for user root
+Sep  8 14:45:01 hoge-server CRON[11559]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:45:01 hoge-server CRON[11558]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:45:01 hoge-server CRON[11559]: pam_unix(cron:session): session closed for user root
+Sep  8 14:45:01 hoge-server CRON[11558]: pam_unix(cron:session): session closed for user root
+Sep  8 14:46:01 hoge-server CRON[11571]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:46:01 hoge-server CRON[11571]: pam_unix(cron:session): session closed for user root
+Sep  8 14:47:01 hoge-server CRON[11580]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:47:01 hoge-server CRON[11580]: pam_unix(cron:session): session closed for user root
+Sep  8 14:48:01 hoge-server CRON[11589]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:48:01 hoge-server CRON[11589]: pam_unix(cron:session): session closed for user root
+Sep  8 14:49:01 hoge-server CRON[11599]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:49:01 hoge-server CRON[11599]: pam_unix(cron:session): session closed for user root
+Sep  8 14:50:01 hoge-server CRON[11608]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:50:01 hoge-server CRON[11608]: pam_unix(cron:session): session closed for user root
+Sep  8 14:51:01 hoge-server CRON[11618]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:51:01 hoge-server CRON[11618]: pam_unix(cron:session): session closed for user root
+Sep  8 14:52:01 hoge-server CRON[11627]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:52:01 hoge-server CRON[11627]: pam_unix(cron:session): session closed for user root
+Sep  8 14:53:01 hoge-server CRON[11636]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:53:01 hoge-server CRON[11636]: pam_unix(cron:session): session closed for user root
+Sep  8 14:54:01 hoge-server CRON[11645]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:54:01 hoge-server CRON[11645]: pam_unix(cron:session): session closed for user root
+Sep  8 14:55:01 hoge-server CRON[11656]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:55:01 hoge-server CRON[11655]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:55:01 hoge-server CRON[11656]: pam_unix(cron:session): session closed for user root
+Sep  8 14:55:01 hoge-server CRON[11655]: pam_unix(cron:session): session closed for user root
+Sep  8 14:56:01 hoge-server CRON[11667]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:56:01 hoge-server CRON[11667]: pam_unix(cron:session): session closed for user root
+Sep  8 14:57:01 hoge-server CRON[11676]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:57:01 hoge-server CRON[11676]: pam_unix(cron:session): session closed for user root
+Sep  8 14:58:01 hoge-server CRON[11685]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:58:01 hoge-server CRON[11685]: pam_unix(cron:session): session closed for user root
+Sep  8 14:59:01 hoge-server CRON[11694]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 14:59:01 hoge-server CRON[11694]: pam_unix(cron:session): session closed for user root
+Sep  8 15:00:01 hoge-server CRON[11703]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 15:00:02 hoge-server CRON[11703]: pam_unix(cron:session): session closed for user root
+Sep  8 15:01:01 hoge-server CRON[11713]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 15:01:01 hoge-server CRON[11713]: pam_unix(cron:session): session closed for user root
+Sep  8 15:01:01 hoge-server systemd-logind[831]: Creating /run/nologin, blocking further logins...
+Sep  8 15:02:01 hoge-server CRON[11722]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 15:02:01 hoge-server CRON[11722]: pam_unix(cron:session): session closed for user root
+Sep  8 15:03:01 hoge-server CRON[11731]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 15:03:01 hoge-server CRON[11731]: pam_unix(cron:session): session closed for user root
+Sep  8 15:04:01 hoge-server CRON[11740]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 15:04:01 hoge-server CRON[11740]: pam_unix(cron:session): session closed for user root
+Sep  8 15:05:01 hoge-server CRON[11751]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 15:05:01 hoge-server CRON[11750]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 15:05:01 hoge-server CRON[11751]: pam_unix(cron:session): session closed for user root
+Sep  8 15:05:01 hoge-server CRON[11750]: pam_unix(cron:session): session closed for user root
+Sep  8 15:06:01 hoge-server CRON[11763]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  8 15:06:01 hoge-server CRON[11763]: pam_unix(cron:session): session closed for user root
+Sep  8 15:06:01 hoge-server systemd-logind[831]: System is powering down.
+Sep  8 15:06:01 hoge-server systemd: pam_unix(systemd-user:session): session closed for user ubuntu
+Sep  9 13:17:33 hoge-server CRON[780]: pam_unix(cron:session): session opened for user ubuntu by (uid=0)
+Sep  9 13:17:33 hoge-server systemd-logind[778]: Watching system buttons on /dev/input/event0 (Power Button)
+Sep  9 13:17:33 hoge-server systemd-logind[778]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Sep  9 13:17:33 hoge-server systemd-logind[778]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+Sep  9 13:17:33 hoge-server systemd-logind[778]: New seat seat0.
+Sep  9 13:17:33 hoge-server sshd[943]: Server listening on 0.0.0.0 port 22.
+Sep  9 13:17:33 hoge-server sshd[943]: Server listening on :: port 22.
+Sep  9 13:17:36 hoge-server CRON[780]: pam_unix(cron:session): session closed for user ubuntu
+Sep  9 13:17:37 hoge-server sshd[1434]: Did not receive identification string from aaa.bbb.ccc.ddd port 54938
+Sep  9 13:17:37 hoge-server sshd[1441]: Accepted publickey for ubuntu from aaa.bbb.ccc.ddd port 58940 ssh2: RSA-CERT ID 0f2d3ebe-11c5-4001-8595-b3dfb8b0e843 (serial 0) CA RSA SHA256:zfCsd8kXHWlj8xgvbC2eNGsUcoY37rSp6orlunewh4w
+Sep  9 13:17:37 hoge-server sshd[1441]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Sep  9 13:17:37 hoge-server systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Sep  9 13:17:37 hoge-server systemd-logind[778]: New session 2 of user ubuntu.
+Sep  9 13:17:39 hoge-server sshd[1655]: Received disconnect from aaa.bbb.ccc.ddd port 58940:11: disconnected by user
+Sep  9 13:17:39 hoge-server systemd-logind[778]: Removed session 2.
+Sep  9 13:17:39 hoge-server sshd[1655]: Disconnected from user ubuntu aaa.bbb.ccc.ddd port 58940
+Sep  9 13:17:39 hoge-server sshd[1441]: pam_unix(sshd:session): session closed for user ubuntu
+Sep  9 13:17:42 hoge-server sshd[2059]: Accepted publickey for ubuntu from aaa.bbb.ccc.ddd port 31110 ssh2: RSA-CERT ID 7ffb8b20-1763-41e3-99f5-190f54f21070 (serial 0) CA RSA SHA256:zfCsd8kXHWlj8xgvbC2eNGsUcoY37rSp6orlunewh4w
+Sep  9 13:17:42 hoge-server sshd[2059]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Sep  9 13:17:42 hoge-server systemd-logind[778]: New session 4 of user ubuntu.
+Sep  9 13:17:42 hoge-server systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Sep  9 13:17:43 hoge-server sshd[2112]: Accepted publickey for ubuntu from aaa.bbb.ccc.ddd port 60356 ssh2: RSA-CERT ID c1818907-227b-4274-b245-fac7c5efd404 (serial 0) CA RSA SHA256:zfCsd8kXHWlj8xgvbC2eNGsUcoY37rSp6orlunewh4w
+Sep  9 13:17:43 hoge-server sshd[2112]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Sep  9 13:17:43 hoge-server systemd-logind[778]: New session 6 of user ubuntu.
+Sep  9 13:17:47 hoge-server sshd[2708]: Did not receive identification string from aaa.bbb.ccc.ddd port 43924
+Sep  9 13:17:47 hoge-server sshd[2709]: Accepted publickey for ubuntu from aaa.bbb.ccc.ddd port 56900 ssh2: RSA-CERT ID 60a859d8-3076-4b7b-b196-da852b0c6139 (serial 0) CA RSA SHA256:zfCsd8kXHWlj8xgvbC2eNGsUcoY37rSp6orlunewh4w
+Sep  9 13:17:47 hoge-server sshd[2709]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Sep  9 13:17:47 hoge-server systemd-logind[778]: New session 7 of user ubuntu.
+Sep  9 13:17:52 hoge-server sshd[2828]: Received disconnect from aaa.bbb.ccc.ddd port 56900:11: disconnected by user
+Sep  9 13:17:52 hoge-server sshd[2828]: Disconnected from user ubuntu aaa.bbb.ccc.ddd port 56900
+Sep  9 13:17:52 hoge-server sshd[2709]: pam_unix(sshd:session): session closed for user ubuntu
+Sep  9 13:17:52 hoge-server systemd-logind[778]: Removed session 7.
+Sep  9 13:18:01 hoge-server CRON[2955]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:18:01 hoge-server CRON[2955]: pam_unix(cron:session): session closed for user root
+Sep  9 13:19:01 hoge-server CRON[2997]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:19:01 hoge-server CRON[2997]: pam_unix(cron:session): session closed for user root
+Sep  9 13:20:01 hoge-server CRON[3027]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:20:01 hoge-server CRON[3027]: pam_unix(cron:session): session closed for user root
+Sep  9 13:21:01 hoge-server CRON[3057]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:21:01 hoge-server CRON[3057]: pam_unix(cron:session): session closed for user root
+Sep  9 13:22:01 hoge-server CRON[3087]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:22:01 hoge-server CRON[3087]: pam_unix(cron:session): session closed for user root
+Sep  9 13:23:01 hoge-server CRON[3115]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:23:01 hoge-server CRON[3115]: pam_unix(cron:session): session closed for user root
+Sep  9 13:24:01 hoge-server CRON[3147]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:24:01 hoge-server CRON[3147]: pam_unix(cron:session): session closed for user root
+Sep  9 13:25:01 hoge-server CRON[3178]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:25:01 hoge-server CRON[3177]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:25:01 hoge-server CRON[3178]: pam_unix(cron:session): session closed for user root
+Sep  9 13:25:01 hoge-server CRON[3177]: pam_unix(cron:session): session closed for user root
+Sep  9 13:26:01 hoge-server CRON[3210]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:26:01 hoge-server CRON[3210]: pam_unix(cron:session): session closed for user root
+Sep  9 13:27:01 hoge-server CRON[3236]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:27:01 hoge-server CRON[3236]: pam_unix(cron:session): session closed for user root
+Sep  9 13:28:01 hoge-server CRON[3267]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:28:01 hoge-server CRON[3267]: pam_unix(cron:session): session closed for user root
+Sep  9 13:29:01 hoge-server CRON[3299]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:29:01 hoge-server CRON[3299]: pam_unix(cron:session): session closed for user root
+Sep  9 13:30:01 hoge-server CRON[3329]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:30:01 hoge-server CRON[3329]: pam_unix(cron:session): session closed for user root
+Sep  9 13:31:01 hoge-server CRON[3355]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:31:01 hoge-server CRON[3355]: pam_unix(cron:session): session closed for user root
+Sep  9 13:32:01 hoge-server CRON[3385]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:32:01 hoge-server CRON[3385]: pam_unix(cron:session): session closed for user root
+Sep  9 13:33:01 hoge-server CRON[3438]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:33:01 hoge-server CRON[3438]: pam_unix(cron:session): session closed for user root
+Sep  9 13:34:01 hoge-server CRON[3471]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:34:01 hoge-server CRON[3471]: pam_unix(cron:session): session closed for user root
+Sep  9 13:35:01 hoge-server CRON[3498]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:35:01 hoge-server CRON[3497]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:35:01 hoge-server CRON[3498]: pam_unix(cron:session): session closed for user root
+Sep  9 13:35:01 hoge-server CRON[3497]: pam_unix(cron:session): session closed for user root
+Sep  9 13:36:01 hoge-server CRON[3530]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:36:01 hoge-server CRON[3530]: pam_unix(cron:session): session closed for user root
+Sep  9 13:37:01 hoge-server CRON[3560]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:37:01 hoge-server CRON[3560]: pam_unix(cron:session): session closed for user root
+Sep  9 13:38:01 hoge-server CRON[3591]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:38:01 hoge-server CRON[3591]: pam_unix(cron:session): session closed for user root
+Sep  9 13:39:01 hoge-server CRON[3620]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:39:01 hoge-server CRON[3621]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:39:01 hoge-server CRON[3620]: pam_unix(cron:session): session closed for user root
+Sep  9 13:39:01 hoge-server CRON[3621]: pam_unix(cron:session): session closed for user root
+Sep  9 13:40:01 hoge-server CRON[3722]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:40:01 hoge-server CRON[3722]: pam_unix(cron:session): session closed for user root
+Sep  9 13:41:01 hoge-server CRON[3752]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:41:01 hoge-server CRON[3752]: pam_unix(cron:session): session closed for user root
+Sep  9 13:42:01 hoge-server CRON[3782]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:42:01 hoge-server CRON[3782]: pam_unix(cron:session): session closed for user root
+Sep  9 13:43:01 hoge-server CRON[3808]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:43:01 hoge-server CRON[3808]: pam_unix(cron:session): session closed for user root
+Sep  9 13:44:01 hoge-server CRON[3841]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:44:01 hoge-server CRON[3841]: pam_unix(cron:session): session closed for user root
+Sep  9 13:45:01 hoge-server CRON[3922]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:45:01 hoge-server CRON[3921]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:45:01 hoge-server CRON[3922]: pam_unix(cron:session): session closed for user root
+Sep  9 13:45:01 hoge-server CRON[3921]: pam_unix(cron:session): session closed for user root
+Sep  9 13:46:01 hoge-server CRON[3954]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:46:01 hoge-server CRON[3954]: pam_unix(cron:session): session closed for user root
+Sep  9 13:47:01 hoge-server CRON[3980]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:47:01 hoge-server CRON[3980]: pam_unix(cron:session): session closed for user root
+Sep  9 13:48:01 hoge-server CRON[4012]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:48:01 hoge-server CRON[4012]: pam_unix(cron:session): session closed for user root
+Sep  9 13:49:01 hoge-server CRON[4044]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:49:01 hoge-server CRON[4044]: pam_unix(cron:session): session closed for user root
+Sep  9 13:50:01 hoge-server CRON[4074]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:50:01 hoge-server CRON[4074]: pam_unix(cron:session): session closed for user root
+Sep  9 13:51:01 hoge-server CRON[4100]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:51:02 hoge-server CRON[4100]: pam_unix(cron:session): session closed for user root
+Sep  9 13:52:01 hoge-server CRON[4130]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:52:01 hoge-server CRON[4130]: pam_unix(cron:session): session closed for user root
+Sep  9 13:53:01 hoge-server CRON[4160]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:53:01 hoge-server CRON[4160]: pam_unix(cron:session): session closed for user root
+Sep  9 13:54:01 hoge-server CRON[4193]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:54:01 hoge-server CRON[4193]: pam_unix(cron:session): session closed for user root
+Sep  9 13:55:01 hoge-server CRON[4220]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:55:01 hoge-server CRON[4219]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:55:01 hoge-server CRON[4220]: pam_unix(cron:session): session closed for user root
+Sep  9 13:55:01 hoge-server CRON[4219]: pam_unix(cron:session): session closed for user root
+Sep  9 13:56:01 hoge-server CRON[4252]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:56:01 hoge-server CRON[4252]: pam_unix(cron:session): session closed for user root
+Sep  9 13:57:01 hoge-server CRON[4283]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:57:01 hoge-server CRON[4283]: pam_unix(cron:session): session closed for user root
+Sep  9 13:58:01 hoge-server CRON[4313]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:58:01 hoge-server CRON[4313]: pam_unix(cron:session): session closed for user root
+Sep  9 13:59:01 hoge-server CRON[4342]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 13:59:01 hoge-server CRON[4342]: pam_unix(cron:session): session closed for user root
+Sep  9 14:00:01 hoge-server CRON[4372]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 14:00:01 hoge-server CRON[4372]: pam_unix(cron:session): session closed for user root
+Sep  9 14:01:01 hoge-server CRON[4402]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 14:01:01 hoge-server CRON[4402]: pam_unix(cron:session): session closed for user root
+Sep  9 14:02:01 hoge-server CRON[4432]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 14:02:01 hoge-server CRON[4432]: pam_unix(cron:session): session closed for user root
+Sep  9 14:03:01 hoge-server CRON[4458]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 14:03:01 hoge-server CRON[4458]: pam_unix(cron:session): session closed for user root
+Sep  9 14:04:01 hoge-server CRON[4490]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 14:04:01 hoge-server CRON[4490]: pam_unix(cron:session): session closed for user root
+Sep  9 14:05:01 hoge-server CRON[4840]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 14:05:01 hoge-server CRON[4839]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep  9 14:05:01 hoge-server CRON[4840]: pam_unix(cron:session): session closed for user root
+Sep  9 14:05:01 hoge-server CRON[4839]: pam_unix(cron:session): session closed for user root

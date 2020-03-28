@@ -15,4 +15,4 @@ title: トップページ
 # Linux環境の準備
 
 * Windows
-    * [Windows Subsystem for Linux（WSL）](WSL20200328.md)
+    * [Windows Subsystem for Linux（WSL）](WSL20200328.html)

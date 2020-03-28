@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 lang: ja-JP
 title: シェル芸の情報ページ
-subtitle: 💩
+description: 💩
 markdown: kramdown
 highlighter: rouge

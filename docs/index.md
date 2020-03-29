@@ -19,7 +19,7 @@ title: トップページ
     * フォローしてもらえると利用可能
     * コマンドやシェルスクリプトを`#シェル芸`をつけてツイート→とシェル芸botが実行結果を出力
 * [websh](https://websh.jiro4989.com/) by [@jiro_saburomaru](https://twitter.com/jiro_saburomaru)
-    * Editorにコマンドを入力して実行できる
+    * テキストボックスにコマンドを入力して実行できる
 * [SGWeb](https://shellgei-web.net/) by [@k3k3h0](https://twitter.com/k3k3h0)
     * 同上
 

@@ -13,7 +13,7 @@ title: トップページ
     * [https://github.com/ryuichiueda/ShellGeiData](https://github.com/ryuichiueda/ShellGeiData) のsd...にあります。
 
 
-# シェル芸のできるウェブサイトなど
+# シェル芸のできるサービスやウェブサイト
 
 * [シェル芸bot](https://twitter.com/minyoruminyon) by [@theoremoon](https://twitter.com/theoremoon)
     * フォローしてもらえると利用可能

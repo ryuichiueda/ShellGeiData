@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 lang: ja-JP
 title: '<a href="/ShellGeiData/" style="color:white">シェル芸の情報を集めるサイト</a>'
-description: <a href="https://github.com/ryuichiueda/ShellGeiData/docs">ShellGeiDataリポジトリのココ</a>をいじって適当にプルリクください
+description: <a href="https://github.com/ryuichiueda/ShellGeiData/tree/master/docs">ShellGeiDataリポジトリのココ</a>をいじって適当にプルリクください
 markdown: kramdown
 highlighter: rouge

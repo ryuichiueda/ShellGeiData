@@ -95,7 +95,7 @@ c \in C, c\text{: 観測したランドマークのID} \}$
 で表すことができ、これもロボットは各時刻ごとに記録する。
 $Z_t$の集合を$Z_{0:T}$で表す。
 
-\subsubsection{計測値の誤差}\label{sub:noise}
+\subsubsection{計測値の誤差}
 
 ランドマーク観測から得られる計測値には正規分布に従う雑音が混入すると仮定する。
 また、ロボットは雑音の傾向を知っていることとする。
@@ -217,7 +217,7 @@ $\psi$を使わない実装もできるが、まだ自分自身では検証し�
 	\end{bmatrix}
 \end{align}
 
-また、式(\ref{eq:e})から、
+また、式(\ref{eq:unko})から、
 \begin{align}
 	\V{e}_{c,t,t'} &= \V{x}_{t'} - \V{x}_t -
 	\begin{bmatrix}

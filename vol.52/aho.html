@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <meta property="og:url"           content="https://b.ueda.tech/?page=advent_calendar_2017" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="うんこシェル芸ドリル | 上田ブログ" />
+
+    <link rel="icon" href="favicon.ico">
+
+    <title>うんこシェル芸ドリル | 上田ブログ</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
+
+    <!-- Font Awesome CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+    <!-- highlight.js -->
+    <link rel="stylesheet"
+          href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+
+    <!-- Custom styles for this template -->
+    <link href="/bsview/jumbotron.css" rel="stylesheet">
+
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+  </head>
+
+  <body>
+	  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.10";
+	  fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+      <a class="navbar-brand" href="/">Ryuichi Ueda's site</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+          	              <li class="nav-item active">
+            <a class="nav-link" href="/?post">latest</a>
+          </li>
+	              	              <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="/?page=00728" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">publications</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown01">
+                            <a class="dropdown-item" href="/?page=publication_en">Publication List (English)</a>
+                            <a class="dropdown-item" href="/?page=06030">出版物リスト（書籍・商業誌等）</a>
+                            <a class="dropdown-item" href="/?page=06033">出版物リスト（学術誌等）</a>
+                            <a class="dropdown-item" href="/?page=05535">書籍の情報</a>
+                            <a class="dropdown-item" href="/?page=lnpr">- 詳解確率ロボティクス</a>
+                            <a class="dropdown-item" href="/?page=bashcms2">- シェルスクリプト高速開発手法入門 改訂2版</a>
+                            <a class="dropdown-item" href="/?page=09461">- Raspberry Piで学ぶ ROSロボット入門</a>
+                            <a class="dropdown-item" href="/?page=05787">- シェルプログラミング実用テクニック</a>
+                            <a class="dropdown-item" href="/?page=03344">- シェルスクリプト高速開発手法入門 初版</a>
+                            <a class="dropdown-item" href="/?page=01441">- 確率ロボティクス</a>
+                            <a class="dropdown-item" href="/?page=02939">雑誌連載記事の情報</a>
+                            <a class="dropdown-item" href="/?page=gihyo_shellgei_series">- シェル芸人からの挑戦状</a>
+                            <a class="dropdown-item" href="/?page=07166">- Raspberry Piで作ろう お手軽ロボット教室 | 日経Linux</a>
+                            <a class="dropdown-item" href="/?page=05983">- Raspberry Piで始めるかんたんロボット製作 | 日経Linux</a>
+                            <a class="dropdown-item" href="/?page=02944">- Haskellでやってはいかんのか？ | USP Magazine</a>
+                            <a class="dropdown-item" href="/?page=02949">- 開眼シェルスクリプト | SoftwareDesign</a>
+                            <a class="dropdown-item" href="/?page=mybookstore">著作物の購入</a>
+                          </div>
+	              	              <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">projects</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown01">
+                            <a class="dropdown-item" href="/?page=01434">シェル芸</a>
+                            <a class="dropdown-item" href="/?page=bashcms2_dev">bashcms2</a>
+                            <a class="dropdown-item" href="/?page=opy">opy（ワンライナー用Python）</a>
+                            <a class="dropdown-item" href="/?page=GlueLang">GlueLang</a>
+                            <a class="dropdown-item" href="https://lab.ueda.tech/?page_id=60">研究 <i class="fa fa-external-link"></i></a>
+                          </div>
+	              	              <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="./" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">records</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown01">
+                            <a class="dropdown-item" href="/?page=00823">受賞等</a>
+                            <a class="dropdown-item" href="/?page=01746">学会等の活動記録</a>
+                            <a class="dropdown-item" href="/?page=02317">外部獲得資金</a>
+                          </div>
+	              	              <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="/?page=01242" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">misc</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown01">
+                            <a class="dropdown-item" href="/?page=07879">資料室</a>
+                            <a class="dropdown-item" href="/?page=10067">- Tera TermをWindowsにインストールしてからssh接続するまで</a>
+                            <a class="dropdown-item" href="/?page=10088">- Tera Termで鍵を作って鍵認証でサーバにログインするまで</a>
+                            <a class="dropdown-item" href="/?page=anaconda_windows">- AnacondaをWindowsにインストールする手順</a>
+                            <a class="dropdown-item" href="/?page=04219">dashのコード解読メモ</a>
+                            <a class="dropdown-item" href="/?page=04223">- dash/src/main.h, main.c</a>
+                            <a class="dropdown-item" href="/?page=04276">- dash/src/shell.h</a>
+                            <a class="dropdown-item" href="/?page=04346">- dash/src/eval.h, eval.c</a>
+                            <a class="dropdown-item" href="/?page=01980">おはようございますの世紀</a>
+                            <a class="dropdown-item" href="/?page=09712">研究関係動画</a>
+                            <a class="dropdown-item" href="/?page=10021">- 某PFoEの改良（アルゴリズム未発表）</a>
+                            <a class="dropdown-item" href="/?page=10034">- 某PFCの改良（アルゴリズム未発表）</a>
+                            <a class="dropdown-item" href="/?page=09692">イベント等の動画</a>
+                            <a class="dropdown-item" href="/?page=09663">動画 | Raspberry Pi Mouse + ROS</a>
+                            <a class="dropdown-item" href="/?page=00851">ARAIBOムービーまとめ</a>
+                            <a class="dropdown-item" href="/?page=09678">シェル芸勉強会の動画</a>
+                          </div>
+	              	              <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="/?page=00811" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">links</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown01">
+                            <a class="dropdown-item" href="https://lab.ueda.tech/">千葉工大上田研究室</a>
+                            <a class="dropdown-item" href="http://www.usptomo.com">USP友の会</a>
+                            <a class="dropdown-item" href="http://www.araibo.com">Team ARAIBO</a>
+                            <a class="dropdown-item" href="/?page=00851">ARAIBOムービーまとめ</a>
+                          </div>
+	              	              <li class="nav-item active">
+            <a class="nav-link" href="https://e.ueda.tech">eng</a>
+          </li>
+	                      </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" id="full-search-box">
+	  <button class="btn btn-outline-success my-2 my-sm-0" type="button" onclick="fullSearch()">Search</button>
+        </form>
+      </div>
+    </nav>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8">
+            <h1>上田ブログ</h1>
+            <p>なお、このサイトはbashでできている。</p>
+                        <p>お知らせ:  <span><a href="/?page=lnpr">詳解確率ロボティクス電子版出ました</a>&nbsp;/&nbsp;</span>  <span><a href="/?page=bashcms2">シェルスクリプト高速開発手法入門改訂2版発売中</a>&nbsp;/&nbsp;</span>  <span><a href="https://employment.en-japan.com/engineerhub/entry/2019/02/19/103000">エンジニアHubで記事を書きました</a>&nbsp;/&nbsp;</span>  </p>
+                      </div>
+          <div class="col-md-4">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-format="fluid"
+                 data-ad-layout-key="-go-p+33-1k-4o"
+                 data-ad-client="ca-pub-7242808947152948"
+                 data-ad-slot="2637185830"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8" id="article-body">
+          <h1 id="うんこシェル芸ドリル">うんこシェル芸ドリル</h1>
+<p id="article-info">
+	  <strong style="font-size:120%">Wed Dec 13 08:59:30 JST 2017</strong> (modified: Thu Dec 14 08:32:05 JST 2017)<br />
+	  views: 5115, keywords: <span id="keywords">うんこ,シェル芸,割とどうでもいい</span>
+          </p>
+	  <div id="social-buttons">
+	    	    <a href="https://twitter.com/share" class="twitter-share-button" data-via="">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>&nbsp;
+	    
+	    	    <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>&nbsp;
+	    
+	    
+	    
+	    	    <a style="white-space: nowrap" data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a>
+	    <script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+	    	    <div id="toc">
+              <ul>
+              <li><a href="#うんこシェル芸ドリル">うんこシェル芸ドリル</a><ul>
+              <li><a href="#1">💩1</a></li>
+              <li><a href="#2">💩2</a></li>
+              <li><a href="#3">💩3</a></li>
+              <li><a href="#4">💩4</a></li>
+              <li><a href="#5">💩5</a></li>
+              <li><a href="#6">💩6</a></li>
+              <li><a href="#7">💩7</a></li>
+              <li><a href="#解答編">解答編</a></li>
+              <li><a href="#宣伝">宣伝</a></li>
+              </ul></li>
+              </ul>
+	      <hr />
+	    </div>
+	  </div>
+<ul>
+<li>諸注意
+<ul>
+<li>これは<a href="https://qiita.com/advent-calendar/2017/shellscript">Shell Script Advent Calendar 2017</a>の記事である。しかし、万が一「品位が問われる」みたいな話になるならば、全力でひり出したものであり大変残念ではあるが、全力で引っ込める。</li>
+<li>解答はMacの端末でUbuntu 16.04にSSH接続して作成</li>
+<li>必要なコマンドは各自インストールのこと。環境の違いはクソ力で埋め合わせること。</li>
+<li>うんこ漢字ドリルではない。</li>
+</ul></li>
+<li>解答例はページ下に掲載。
+<ul>
+<li>解答例を試すときは改行を除去のこと。また、周囲に人がいないことを確認すること。</li>
+</ul></li>
+</ul>
+<h2 id="1">💩1</h2>
+<p>次のように💩を変換して得られる8桁の16進数について、10進数に変換後、素因数分解を行い、得られる素数のうち最大のものを求めよ。</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb1-1" title="1">$ <span class="bu">echo</span> -n 💩 <span class="kw">|</span> <span class="ex">xxd</span> -p</a>
+<a class="sourceLine" id="cb1-2" title="2"><span class="ex">f09f92a9</span></a></code></pre></div>
+<h2 id="2">💩2</h2>
+<p>次の文字列が何であるか、何が得られるかを解析せよ。</p>
+<pre><code>H4sICL5zMFoAA/CfkqkAq3f1cWNkZGSAASYGZgYQLzrARMiEAQ
+FMGBQYYKrgqoFqQFQtFLOCOAIMDHr6H+ZPWsm1gwXI3Q1SvDME
+qHIXO5B1tmEHSGA3A5gNADcLsIJ9AAAA</code></pre>
+<h2 id="3">💩3</h2>
+<p>lsをunkoと打ち間違える癖に悩む者は多い。そこで矯正のため、unkoと打つと、端末の幅いっぱいにうんこメッセージをスクロールさせるエイリアスを設定せよ。</p>
+<p><img width="600" src="/pages/advent_calendar_2017/unko_q1.gif" ></p>
+<h2 id="4">💩4</h2>
+<p>次のように楽しげに💩をぐるぐるさせよ。</p>
+<p><img width="600" src="/pages/advent_calendar_2017/unko_q2.gif" ></p>
+<h2 id="5">💩5</h2>
+<p>次の文を「う」「ん」「こ」「ー」のみでエンコードする例を示し、デコード可能であることを示せ。</p>
+<pre><code>2017年はうんこの年でした。うんこうんこ氏のうんこの党がうんこアウフヘーベン発言で頓挫しました。</code></pre>
+<h2 id="6">💩6</h2>
+<p><code>/dev/urandom</code>の出力から小文字大文字のアルファベットだけを残し、その中に流れるunkoの平均流速を概算せよ。なお、大文字小文字は区別しないものとする。</p>
+<ul>
+<li>例
+<ul>
+<li>次のように26文字に一つ「unko」とある場合は、38[unko/kb]となる。</li>
+</ul>
+<pre><code>$ echo abadojfwejaiefUnkofawfewaf | awk &#39;{print 1/length($0)}&#39;
+0.0384615</code></pre></li>
+</ul>
+<h2 id="7">💩7</h2>
+<p>これを電車の中で人に見られながら作成していた筆者の心境を説明せよ。</p>
+<p>以上。解答例を見るときは下にスクロールのこと。</p>
+<div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4905073863/ryuichiueda-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/51n38xQgAfL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4905073863/ryuichiueda-22/" target="_blank" >日本一楽しい漢字ドリル うんこ漢字ドリル 小学6年生</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;">文響社(編集) 文響社 2017-03-18    </div><div class="kaerebalink-link1" style="margin-top:10px;"><div class="shoplinkamazon" style="margin:5px 0"><a href="http://www.amazon.co.jp/gp/search?keywords=%E3%81%86%E3%82%93%E3%81%93%E6%BC%A2%E5%AD%97&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=ryuichiueda-22" target="_blank" >Amazon</a></div><div class="shoplinkrakuten" style="margin:5px 0"><a href="https://hb.afl.rakuten.co.jp/hgc/131cef76.deb3ed6a.131cef77.7335f681/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%2586%25E3%2582%2593%25E3%2581%2593%25E6%25BC%25A2%25E5%25AD%2597%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" >楽天市場</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>
+<hr />
+<h2 id="解答編">解答編</h2>
+<p>問題も再度掲載。</p>
+<h3 id="1-1">💩1</h3>
+<p>次のように💩を変換して得られる8桁の16進数について、10進数に変換後、素因数分解を行い、得られる素数のうち最大のものを求めよ。</p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb5-1" title="1">$ <span class="bu">echo</span> -n 💩 <span class="kw">|</span> <span class="ex">xxd</span> -p</a>
+<a class="sourceLine" id="cb5-2" title="2"><span class="ex">f09f92a9</span></a></code></pre></div>
+<h4 id="解答">解答</h4>
+<p>💩には、大きな素数が含まれるため、大自然の何かを感じざるを得ない。</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb6-1" title="1">$ <span class="bu">echo</span> -n 💩  <span class="kw">|</span> <span class="ex">xxd</span> -p <span class="kw">|</span> <span class="fu">sed</span> <span class="st">&#39;s/^/0x/&#39;</span> <span class="kw">|</span> <span class="fu">xargs</span> printf <span class="st">&quot;%d&quot;</span> <span class="kw">|</span> <span class="ex">factor</span> <span class="kw">|</span></a>
+<a class="sourceLine" id="cb6-2" title="2"><span class="fu">awk</span> <span class="st">&#39;$1=&quot; &quot;&#39;</span> <span class="kw">|</span> <span class="fu">xargs</span> -n 1 <span class="kw">|</span> <span class="fu">sort</span> -n <span class="kw">|</span> <span class="fu">tail</span> -n 1</a>
+<a class="sourceLine" id="cb6-3" title="3"><span class="ex">26385553</span></a></code></pre></div>
+<h3 id="2-1">💩2</h3>
+<p>次の文字列が何であるか、何が得られるかを解析せよ。</p>
+<pre><code>H4sICL5zMFoAA/CfkqkAq3f1cWNkZGSAASYGZgYQLzrARMiEAQ
+FMGBQYYKrgqoFqQFQtFLOCOAIMDHr6H+ZPWsm1gwXI3Q1SvDME
+qHIXO5B1tmEHSGA3A5gNADcLsIJ9AAAA</code></pre>
+<h4 id="解答-1">解答</h4>
+<ul>
+<li>参考: <a href="http://d.hatena.ne.jp/yupo5656/20061112/p2" class="uri">http://d.hatena.ne.jp/yupo5656/20061112/p2</a></li>
+</ul>
+<div class="sourceCode" id="cb8"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb8-1" title="1"><span class="co">### とりあえずファイルに保存 </span><span class="al">###</span></a>
+<a class="sourceLine" id="cb8-2" title="2">$ <span class="fu">cat</span> unko</a>
+<a class="sourceLine" id="cb8-3" title="3"><span class="ex">H4sICL5zMFoAA/CfkqkAq3f1cWNkZGSAASYGZgYQLzrARMiEAQ</span></a>
+<a class="sourceLine" id="cb8-4" title="4"><span class="ex">FMGBQYYKrgqoFqQFQtFLOCOAIMDHr6H+ZPWsm1gwXI3Q1SvDME</span></a>
+<a class="sourceLine" id="cb8-5" title="5"><span class="ex">qHIXO5B1tmEHSGA3A5gNADcLsIJ9AAAA</span></a>
+<a class="sourceLine" id="cb8-6" title="6"><span class="co">### 文字列を見ると明らかにbase64 </span><span class="al">###</span></a>
+<a class="sourceLine" id="cb8-7" title="7">$ <span class="fu">cat</span> unko <span class="kw">|</span> <span class="ex">base64</span> -d <span class="op">&gt;</span> unko2</a>
+<a class="sourceLine" id="cb8-8" title="8"><span class="co">### unko2はgzファイル </span><span class="al">###</span></a>
+<a class="sourceLine" id="cb8-9" title="9">$ <span class="fu">file</span> unko2</a>
+<a class="sourceLine" id="cb8-10" title="10"><span class="ex">unko2</span>: gzip compressed data, was <span class="st">&quot;\360\237\222\251&quot;</span>, last modified: Wed Dec 13 00:26:38 2017, from Unix</a>
+<a class="sourceLine" id="cb8-11" title="11"><span class="co">### &quot;\360\237\222\251&quot; を解析 </span><span class="al">###</span></a>
+<a class="sourceLine" id="cb8-12" title="12">$ <span class="bu">echo</span> <span class="st">$&#39;</span><span class="dt">\360\237\222\251</span><span class="st">&#39;</span></a>
+<a class="sourceLine" id="cb8-13" title="13">💩</a>
+<a class="sourceLine" id="cb8-14" title="14"><span class="co">### fileの出力通りにファイル名を復元 </span><span class="al">###</span></a>
+<a class="sourceLine" id="cb8-15" title="15">$ <span class="fu">mv</span> unko2 💩.gz</a>
+<a class="sourceLine" id="cb8-16" title="16">$ <span class="fu">gunzip</span> 💩.gz</a>
+<a class="sourceLine" id="cb8-17" title="17"><span class="co">### fileで調査するとELF形式のバイナリと分かる </span><span class="al">###</span></a>
+<a class="sourceLine" id="cb8-18" title="18">$ <span class="fu">file</span> 💩</a>
+<a class="sourceLine" id="cb8-19" title="19">💩: <span class="ex">ELF</span> 32-bit LSB executable, Intel 80386, version 1 (SYSV), <span class="ex">statically</span> linked, corrupted section header size</a>
+<a class="sourceLine" id="cb8-20" title="20">$ <span class="fu">chmod</span> +x ./💩</a>
+<a class="sourceLine" id="cb8-21" title="21">$ <span class="ex">.</span>/💩</a>
+<a class="sourceLine" id="cb8-22" title="22"><span class="ex">.</span>/💩</a></code></pre></div>
+<p>ということで、自己言及型💩であることが判明する。応用としては、二つ💩を出力してそれを再実行し、forkbomb（💩bomb）を起こすという手法が考えられるが、自分のマシンを壊したくないので割愛する。</p>
+<h3 id="3-1">💩3</h3>
+<p>lsをunkoと打ち間違える癖に悩む者は多い。そこで矯正のため、unkoと打つと、端末の幅いっぱいにうんこメッセージをスクロールさせるエイリアスを設定せよ。</p>
+<p><img width="600" src="/pages/advent_calendar_2017/unko_q1.gif" ></p>
+<h4 id="解答-2">解答</h4>
+<ul>
+<li><a href="https://gist.github.com/Iruyan-Zak/186ce5d5cf8164744721dbf2f9326ef1" class="uri">https://gist.github.com/Iruyan-Zak/186ce5d5cf8164744721dbf2f9326ef1</a></li>
+</ul>
+<div class="sourceCode" id="cb9"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb9-1" title="1">$ <span class="bu">alias</span> unko=<span class="st">&#39;echo -ne &quot;@@unko@@yes&quot; | perl -pe &quot;\$_ x= 20&quot; |</span></a>
+<a class="sourceLine" id="cb9-2" title="2"><span class="st">head -c $(tput cols) | sed &quot;s/@/💩/g&quot; | sed -E &quot;:b;p;s/(.)(.*)/\2\1/;bb&quot; |</span></a>
+<a class="sourceLine" id="cb9-3" title="3"><span class="st">xargs -i bash -c &quot;sleep 0.2 &amp;&amp; echo -ne \\\\r{}&quot;&#39;</span></a></code></pre></div>
+<h3 id="4-1">💩4</h3>
+<p>次のように楽しげに💩をぐるぐるさせよ。</p>
+<p><img width="600" src="/pages/advent_calendar_2017/unko_q2.gif" ></p>
+<h4 id="解答例">解答例</h4>
+<div class="sourceCode" id="cb10"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb10-1" title="1">$ <span class="kw">while</span> <span class="fu">sleep</span> 0.02 <span class="kw">;</span> <span class="kw">do</span> <span class="fu">clear</span> <span class="kw">;</span> <span class="bu">echo</span> 💩  <span class="va">$(</span><span class="fu">date</span> +%N<span class="va">)</span> <span class="kw">|</span></a>
+<a class="sourceLine" id="cb10-2" title="2"><span class="fu">awk</spin> <span class="st">&#39;{t=2*3.14*$2/1000000000;c=cos(t)*5+5;s=sin(t)*10+13;</span></a>
+<a class="sourceLine" id="cb10-3" title="3"><span class="st">for(i=1;i&lt;=c;i++)print &quot;&quot;;for(j=1;j&lt;=s;j++)printf &quot; &quot;;print $1}&#39;</span><span class="kw">;</span> <span class="kw">done</span></a></code></pre></div>
+<h3 id="5-1">💩5</h3>
+<p>次の文を「う」「ん」「こ」「ー」のみでエンコードする例を示し、デコード可能であることを示せ。</p>
+<pre><code>2017年はうんこの年でした。うんこうんこ氏のうんこの党がうんこアウフヘーベン発言で頓挫しました。</code></pre>
+<h4 id="解答-3">解答</h4>
+<h5 id="エンコードの一例">・エンコードの一例</h5>
+<div class="sourceCode" id="cb12"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb12-1" title="1">$ <span class="bu">echo</span> 2017年はうんこの年でした。うんこうんこ氏のうんこの党がうんこアウフヘーベン発言で頓挫しました。<span class="kw">|</span></a>
+<a class="sourceLine" id="cb12-2" title="2"><span class="ex">xxd</span> -b <span class="kw">|</span> <span class="fu">awk</span> <span class="st">&#39;{$1=&quot;&quot;;$NF=&quot;&quot;;print}&#39;</span> <span class="kw">|</span> <span class="fu">tr</span> -d <span class="st">&#39; &#39;</span> <span class="kw">|</span> <span class="fu">sed</span> <span class="st">&#39;s/../ &amp;/g&#39;</span> <span class="kw">|</span></a>
+<a class="sourceLine" id="cb12-3" title="3"><span class="fu">sed</span> -e <span class="st">&#39;s/ 00/う/g&#39;</span> -e <span class="st">&#39;s/ 01/ん/g&#39;</span> -e <span class="st">&#39;s/ 10/こ/g&#39;</span> -e <span class="st">&#39;s/ 11/ー/g&#39;</span> <span class="op">&gt;</span> unko_yuriko</a>
+<a class="sourceLine" id="cb12-4" title="4">$ <span class="fu">cat</span> unko_yuriko </a>
+<a class="sourceLine" id="cb12-5" title="5">うーうこうーうううーうんうーんーーこんんこーこん</a>
+<a class="sourceLine" id="cb12-6" title="6">こーんうーこうーこううんここーーーこうーこううん</a>
+<a class="sourceLine" id="cb12-7" title="7">こうんこーこうーこううここんうーーこうーこううん</a>
+<a class="sourceLine" id="cb12-8" title="8">こんうーーこうーこううんここーこーこんんこーこん</a>
+<a class="sourceLine" id="cb12-9" title="9">こーんうーこうーこううんここんーーこうーこううん</a>
+<a class="sourceLine" id="cb12-10" title="10">こんんーーこうーこううんこんーーーこうーこううう</a>
+<a class="sourceLine" id="cb12-11" title="11">こううこーこうーこううんこうんこーこうーこううこ</a>
+<a class="sourceLine" id="cb12-12" title="12">こんうーーこうーこううんこんうーーこうーこううん</a>
+<a class="sourceLine" id="cb12-13" title="13">こうんこーこうーこううここんうーーこうーこううん</a>
+<a class="sourceLine" id="cb12-14" title="14">こんうーーこんここーううこうーーーこうーこううん</a>
+<a class="sourceLine" id="cb12-15" title="15">ここーこーこうーこううんこうんこーこうーこううこ</a>
+<a class="sourceLine" id="cb12-16" title="16">こんうーーこうーこううんこんうーーこうーこううん</a>
+<a class="sourceLine" id="cb12-17" title="17">ここーこーこんんこうんんこんここーこうーこううん</a>
+<a class="sourceLine" id="cb12-18" title="18">こうーうーこうーこううんこうんこーこうーこううこ</a>
+<a class="sourceLine" id="cb12-19" title="19">こんうーーこうーこううんこんうーーこうーこううこ</a>
+<a class="sourceLine" id="cb12-20" title="20">ここうこーこうーこううこここんこーこうーこううー</a>
+<a class="sourceLine" id="cb12-21" title="21">こんんんーこうーこううーこんこうーこうーこううー</a>
+<a class="sourceLine" id="cb12-22" title="22">こーーうーこうーこううーこんこんーこうーこううー</a>
+<a class="sourceLine" id="cb12-23" title="23">こーうーーこんーこんこんこーここーここうこここう</a>
+<a class="sourceLine" id="cb12-24" title="24">こうううーこうーこううんここんーーここんここうう</a>
+<a class="sourceLine" id="cb12-25" title="25">こんうーーこんここうーうこここーーこうーこううん</a>
+<a class="sourceLine" id="cb12-26" title="26">こんんーーこうーこううんこーーこーこうーこううん</a>
+<a class="sourceLine" id="cb12-27" title="27">こんんーーこうーこううんこんーーーこうーこううう</a>
+<a class="sourceLine" id="cb12-28" title="28">こううこううここ</a></code></pre></div>
+<p>出力に謎のリズムがあるが、理由が良く分からないので調査中。（嘘）</p>
+<h5 id="例に対応するデコード">・例に対応するデコード</h5>
+<div class="sourceCode" id="cb13"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb13-1" title="1">$ <span class="fu">cat</span> unko_yuriko <span class="kw">|</span> <span class="fu">sed</span> -e <span class="st">&#39;s/う/0 /g&#39;</span> -e <span class="st">&#39;s/ん/1 /g&#39;</span> -e <span class="st">&#39;s/こ/2 /g&#39;</span> -e <span class="st">&#39;s/ー/3 /g&#39;</span> <span class="kw">|</span></a>
+<a class="sourceLine" id="cb13-2" title="2"><span class="fu">xargs</span> -n 2 <span class="kw">|</span> <span class="fu">awk</span> <span class="st">&#39;{print $1*4 + $2}&#39;</span> <span class="kw">|</span> <span class="fu">xargs</span> printf <span class="st">&quot;%x&quot;</span> <span class="kw">|</span> <span class="ex">xxd</span> -p -r</a>
+<a class="sourceLine" id="cb13-3" title="3"><span class="ex">2017</span>年はうんこの年でした。うんこうんこ氏のうんこの党がうんこアウフヘーベン発言で頓挫しました。</a></code></pre></div>
+<h3 id="6-1">💩6</h3>
+<p><code>/dev/urandom</code>の出力から小文字大文字のアルファベットだけを残し、その中に流れるunkoの平均流速を概算せよ。なお、大文字小文字は区別しないものとする。</p>
+<ul>
+<li>例
+<ul>
+<li>次のように26文字に一つ「unko」とある場合は、38[unko/kb]となる。</li>
+</ul>
+<pre><code>$ echo abadojfwejaiefUnkofawfewaf | awk &#39;{print 1/length($0)}&#39;
+0.0384615</code></pre></li>
+</ul>
+<h4 id="解答-4">解答</h4>
+<div class="sourceCode" id="cb15"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb15-1" title="1">$ <span class="fu">cat</span> /dev/urandom <span class="kw">|</span> <span class="fu">tr</span> -dc <span class="st">&#39;A-Za-z&#39;</span> <span class="kw">|</span> <span class="fu">tr</span> a <span class="st">&#39;\n&#39;</span> <span class="kw">|</span></a>
+<a class="sourceLine" id="cb15-2" title="2"><span class="fu">tee</span> /tmp/unko <span class="kw">|</span> <span class="fu">grep</span> -oi -m 100 unko <span class="kw">&amp;&amp;</span></a>
+<a class="sourceLine" id="cb15-3" title="3"><span class="fu">wc</span> -c /tmp/unko <span class="kw">|</span> <span class="fu">awk</span> <span class="st">&#39;{print $1/(100*1000*1000)&quot;[unko/MB]&quot;}&#39;</span></a>
+<a class="sourceLine" id="cb15-4" title="4"><span class="ex">UNko</span></a>
+<a class="sourceLine" id="cb15-5" title="5"><span class="ex">UnKO</span></a>
+<a class="sourceLine" id="cb15-6" title="6"><span class="ex">UnKo</span></a>
+<a class="sourceLine" id="cb15-7" title="7"><span class="ex">unKO</span></a>
+<a class="sourceLine" id="cb15-8" title="8"><span class="ex">Unko</span></a>
+<a class="sourceLine" id="cb15-9" title="9"><span class="ex">UNKO</span></a>
+<a class="sourceLine" id="cb15-10" title="10"><span class="ex">UnKo</span></a>
+<a class="sourceLine" id="cb15-11" title="11"><span class="ex">UNKO</span></a>
+<a class="sourceLine" id="cb15-12" title="12"><span class="ex">UNKo</span></a>
+<a class="sourceLine" id="cb15-13" title="13"><span class="ex">unKo</span></a>
+<a class="sourceLine" id="cb15-14" title="14"><span class="ex">uNKo</span></a>
+<a class="sourceLine" id="cb15-15" title="15"><span class="ex">unKO</span></a>
+<a class="sourceLine" id="cb15-16" title="16"><span class="ex">Unko</span></a>
+<a class="sourceLine" id="cb15-17" title="17"><span class="ex">unko</span></a>
+<a class="sourceLine" id="cb15-18" title="18"><span class="ex">UnKo</span></a>
+<a class="sourceLine" id="cb15-19" title="19"><span class="ex">uNko</span></a>
+<a class="sourceLine" id="cb15-20" title="20"><span class="ex">UNKO</span></a>
+<a class="sourceLine" id="cb15-21" title="21"><span class="ex">UNko</span></a>
+<a class="sourceLine" id="cb15-22" title="22"><span class="ex">UnKO</span></a>
+<a class="sourceLine" id="cb15-23" title="23"><span class="ex">Unko</span></a>
+<a class="sourceLine" id="cb15-24" title="24"><span class="ex">Unko</span></a>
+<a class="sourceLine" id="cb15-25" title="25"><span class="ex">UNKO</span></a>
+<a class="sourceLine" id="cb15-26" title="26"><span class="ex">uNKo</span></a>
+<a class="sourceLine" id="cb15-27" title="27"><span class="ex">Unko</span></a>
+<a class="sourceLine" id="cb15-28" title="28"><span class="ex">uNKO</span></a>
+<a class="sourceLine" id="cb15-29" title="29"><span class="ex">unKO</span></a>
+<a class="sourceLine" id="cb15-30" title="30"><span class="ex">UnKO</span></a>
+<a class="sourceLine" id="cb15-31" title="31"><span class="ex">UNKo</span></a>
+<a class="sourceLine" id="cb15-32" title="32"><span class="ex">unko</span></a>
+<a class="sourceLine" id="cb15-33" title="33"><span class="ex">uNkO</span></a>
+<a class="sourceLine" id="cb15-34" title="34"><span class="ex">uNKO</span></a>
+<a class="sourceLine" id="cb15-35" title="35"><span class="ex">unKo</span></a>
+<a class="sourceLine" id="cb15-36" title="36"><span class="ex">unKo</span></a>
+<a class="sourceLine" id="cb15-37" title="37"><span class="ex">unkO</span></a>
+<a class="sourceLine" id="cb15-38" title="38"><span class="ex">UNkO</span></a>
+<a class="sourceLine" id="cb15-39" title="39"><span class="ex">UnKo</span></a>
+<a class="sourceLine" id="cb15-40" title="40"><span class="ex">uNko</span></a>
+<a class="sourceLine" id="cb15-41" title="41"><span class="ex">uNKO</span></a>
+<a class="sourceLine" id="cb15-42" title="42"><span class="ex">unko</span></a>
+<a class="sourceLine" id="cb15-43" title="43"><span class="ex">unKO</span></a>
+<a class="sourceLine" id="cb15-44" title="44"><span class="ex">unKO</span></a>
+<a class="sourceLine" id="cb15-45" title="45"><span class="ex">UNKO</span></a>
+<a class="sourceLine" id="cb15-46" title="46"><span class="ex">unKO</span></a>
+<a class="sourceLine" id="cb15-47" title="47"><span class="ex">unko</span></a>
+<a class="sourceLine" id="cb15-48" title="48"><span class="ex">unKo</span></a>
+<a class="sourceLine" id="cb15-49" title="49"><span class="ex">uNko</span></a>
+<a class="sourceLine" id="cb15-50" title="50"><span class="ex">UNKO</span></a>
+<a class="sourceLine" id="cb15-51" title="51"><span class="ex">UNko</span></a>
+<a class="sourceLine" id="cb15-52" title="52"><span class="ex">uNkO</span></a>
+<a class="sourceLine" id="cb15-53" title="53"><span class="ex">uNko</span></a>
+<a class="sourceLine" id="cb15-54" title="54"><span class="ex">UnkO</span></a>
+<a class="sourceLine" id="cb15-55" title="55"><span class="ex">UnKo</span></a>
+<a class="sourceLine" id="cb15-56" title="56"><span class="ex">UnKo</span></a>
+<a class="sourceLine" id="cb15-57" title="57"><span class="ex">uNko</span></a>
+<a class="sourceLine" id="cb15-58" title="58"><span class="ex">UNKO</span></a>
+<a class="sourceLine" id="cb15-59" title="59"><span class="ex">uNKO</span></a>
+<a class="sourceLine" id="cb15-60" title="60"><span class="ex">unko</span></a>
+<a class="sourceLine" id="cb15-61" title="61"><span class="ex">unKo</span></a>
+<a class="sourceLine" id="cb15-62" title="62"><span class="ex">uNko</span></a>
+<a class="sourceLine" id="cb15-63" title="63"><span class="ex">uNkO</span></a>
+<a class="sourceLine" id="cb15-64" title="64"><span class="ex">UnKo</span></a>
+<a class="sourceLine" id="cb15-65" title="65"><span class="ex">UNko</span></a>
+<a class="sourceLine" id="cb15-66" title="66"><span class="ex">UNkO</span></a>
+<a class="sourceLine" id="cb15-67" title="67"><span class="ex">UNKo</span></a>
+<a class="sourceLine" id="cb15-68" title="68"><span class="ex">uNkO</span></a>
+<a class="sourceLine" id="cb15-69" title="69"><span class="ex">UnKo</span></a>
+<a class="sourceLine" id="cb15-70" title="70"><span class="ex">UnkO</span></a>
+<a class="sourceLine" id="cb15-71" title="71"><span class="ex">UNko</span></a>
+<a class="sourceLine" id="cb15-72" title="72"><span class="ex">UNKO</span></a>
+<a class="sourceLine" id="cb15-73" title="73"><span class="ex">UnkO</span></a>
+<a class="sourceLine" id="cb15-74" title="74"><span class="ex">unko</span></a>
+<a class="sourceLine" id="cb15-75" title="75"><span class="ex">unKO</span></a>
+<a class="sourceLine" id="cb15-76" title="76"><span class="ex">unko</span></a>
+<a class="sourceLine" id="cb15-77" title="77"><span class="ex">UNkO</span></a>
+<a class="sourceLine" id="cb15-78" title="78"><span class="ex">Unko</span></a>
+<a class="sourceLine" id="cb15-79" title="79"><span class="ex">unkO</span></a>
+<a class="sourceLine" id="cb15-80" title="80"><span class="ex">unkO</span></a>
+<a class="sourceLine" id="cb15-81" title="81"><span class="ex">unKo</span></a>
+<a class="sourceLine" id="cb15-82" title="82"><span class="ex">unKo</span></a>
+<a class="sourceLine" id="cb15-83" title="83"><span class="ex">UNko</span></a>
+<a class="sourceLine" id="cb15-84" title="84"><span class="ex">unKO</span></a>
+<a class="sourceLine" id="cb15-85" title="85"><span class="ex">UnKo</span></a>
+<a class="sourceLine" id="cb15-86" title="86"><span class="ex">uNKO</span></a>
+<a class="sourceLine" id="cb15-87" title="87"><span class="ex">UNko</span></a>
+<a class="sourceLine" id="cb15-88" title="88"><span class="ex">unKo</span></a>
+<a class="sourceLine" id="cb15-89" title="89"><span class="ex">UnKO</span></a>
+<a class="sourceLine" id="cb15-90" title="90"><span class="ex">uNKO</span></a>
+<a class="sourceLine" id="cb15-91" title="91"><span class="ex">UNKo</span></a>
+<a class="sourceLine" id="cb15-92" title="92"><span class="ex">UnKO</span></a>
+<a class="sourceLine" id="cb15-93" title="93"><span class="ex">UNKo</span></a>
+<a class="sourceLine" id="cb15-94" title="94"><span class="ex">uNKO</span></a>
+<a class="sourceLine" id="cb15-95" title="95"><span class="ex">unKo</span></a>
+<a class="sourceLine" id="cb15-96" title="96"><span class="ex">UNKO</span></a>
+<a class="sourceLine" id="cb15-97" title="97"><span class="ex">UNko</span></a>
+<a class="sourceLine" id="cb15-98" title="98"><span class="ex">UNko</span></a>
+<a class="sourceLine" id="cb15-99" title="99"><span class="ex">UnkO</span></a>
+<a class="sourceLine" id="cb15-100" title="100"><span class="ex">UNKO</span></a>
+<a class="sourceLine" id="cb15-101" title="101"><span class="ex">unKO</span></a>
+<a class="sourceLine" id="cb15-102" title="102"><span class="ex">UnKO</span></a>
+<a class="sourceLine" id="cb15-103" title="103"><span class="ex">UNko</span></a>
+<a class="sourceLine" id="cb15-104" title="104"><span class="ex">0.48599</span>[unko/MB]</a></code></pre></div>
+<p>ということで、0.5ウンコパーメガバイトだと分かる。</p>
+<h3 id="7-1">💩7</h3>
+<p>これを電車の中で人に見られながら作成していた筆者の心境を説明せよ。</p>
+<h4 id="解答-5">解答</h4>
+<div class="sourceCode" id="cb16"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb16-1" title="1">$ <span class="ex">toilet</span> -w 160 わりとたのしい。</a>
+<a class="sourceLine" id="cb16-2" title="2">  <span class="ex">m</span>             m   m                        m</a>
+<a class="sourceLine" id="cb16-3" title="3">   <span class="co">#             # # &quot;m        &quot;m             #mm          m&quot;#&quot;m       &quot;m           m</span></a>
+<a class="sourceLine" id="cb16-4" title="4"><span class="st">&quot;mm##m&quot;&quot;&quot;</span><span class="ex">m</span>       <span class="co">##   #         # m&quot;&quot;      &quot;&quot;#  mmm      m&quot;  #  &quot;m      #            #    &quot;&quot;m         m&quot;&quot;m</span></a>
+<a class="sourceLine" id="cb16-5" title="5">   <span class="co">#      #      #    #        m&quot;&quot;          m&quot;   m&quot;&quot;     #  #    #      #            #  m    #        &quot;mm&quot;</span></a>
+<a class="sourceLine" id="cb16-6" title="6"> <span class="ex">m</span><span class="st">&quot;#     m&quot;</span>          <span class="co">#        &quot;m            #  m         &quot;m&quot;   m&quot;       #     m      &quot;m#    &quot;#</span></a>
+<a class="sourceLine" id="cb16-7" title="7"><span class="st">&quot; &quot;</span>#   <span class="st">&quot;&quot;</span>          <span class="ex">m</span><span class="st">&quot;           &quot;&quot;&quot;&quot;&quot;</span>      <span class="co">#   &quot;mmmm         &quot;&quot;          &quot;mm&quot;&quot;         &quot;</span></a></code></pre></div>
+<h2 id="宣伝">宣伝</h2>
+<p>この内容で宣伝をすると叱られるのではないかという話はさておき、第一特集で記事を書きました。そして「シェル芸人からの挑戦状」好評連載中です。よろしくお願いしまーす！！</p>
+<div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;"><div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B076M9MGDL/ryuichiueda-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/61xVgsnyrIL._SL160_.jpg" style="border: none;" /></a></div><div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;"><div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B076M9MGDL/ryuichiueda-22/" target="_blank" >ソフトウェアデザイン 2018年 01 月号 [雑誌]</a><div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail" style="margin-bottom:5px;"> 技術評論社 2017-12-18    </div><div class="kaerebalink-link1" style="margin-top:10px;"><div class="shoplinkamazon" style="margin:5px 0"><a href="http://www.amazon.co.jp/gp/search?keywords=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=ryuichiueda-22" target="_blank" >Amazon</a></div><div class="shoplinkrakuten" style="margin:5px 0"><a href="https://hb.afl.rakuten.co.jp/hgc/131cef76.deb3ed6a.131cef77.7335f681/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" target="_blank" >楽天市場</a></div></div></div><div class="booklink-footer" style="clear: left"></div></div>
+<p>おしまい。おつかれ💩様でした。</p>
+
+          <br />
+          <!-- google ad -->
+          <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+          <ins class="adsbygoogle"
+               style="display:block; text-align:center;"
+               data-ad-layout="in-article"
+               data-ad-format="fluid"
+               data-ad-client="ca-pub-7242808947152948"
+               data-ad-slot="6249127784"></ins>
+          <script>
+               (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+          <!-- google ad -->
+
+          <br />
+	  <p id="prev-next-nav"></p>
+        </div>
+	<div class="col-md-4" id="widgets">
+          <aside>
+            <script src="https://apis.google.com/js/platform.js"></script>
+            <div class="g-ytsubscribe" data-channel="ryuichiueda" data-layout="full" data-count="default"></div>
+            <div class="g-ytsubscribe" data-channelid="UCNnuBjHrb2UYBUi0I5otmjQ" data-layout="full" data-count="default"></div>
+            <br />
+          </aside>
+          <aside>
+            	    <a href="https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%94%B0%E9%9A%86%E4%B8%80"><i class="fa fa-wikipedia-w fa-3x"></i></a>
+	    	    <a href="https://twitter.com/ryuichiueda"><i class="fa fa-twitter-square fa-3x"></i></a>
+	    	    <a href="https://github.com/ryuichiueda"><i class="fa fa-github-square fa-3x"></i></a>
+	    	    <a href="https://www.slideshare.net/ryuichiueda"><i class="fa fa-slideshare fa-3x"></i></a>
+	    	    <a href="https://www.facebook.com/%E4%B8%8A%E7%94%B0-%E9%9A%86%E4%B8%80-675930229170437/"><i class="fa fa-facebook-squar fa-3x"></i></a>
+	    	    <a href="https://www.linkedin.com/in/%E9%9A%86%E4%B8%80-%E4%B8%8A%E7%94%B0-81391649"><i class="fa fa-linkedin-square fa-3x"></i></a>
+	    	    <a href="https://www.instagram.com/ryuichiueda/"><i class="fa fa-instagram fa-3x"></i></a>
+	    	    <a href="https://www.researchgate.net/profile/Ryuichi_Ueda"><i class="fa fa-graduation-cap fa-3x"></i></a>
+	    	    <a href="https://peing.net/ja/ryuichiueda"><i class="fa fa-question fa-3x"></i></a>
+	              </aside>
+          <br />
+          <aside id="last-read"></aside>
+          <br />
+          <aside id="tag-cloud"></aside>
+          <br />
+          <aside id="last-articles"></aside>
+          <br />
+          <aside id="rank-articles"></aside>
+        </div>
+      </div>
+      <div class="row fixed-bottom" id="cookiemention">
+        <div class="col-md-12">
+          <div class="card">
+            <div class="card-body">
+		    このサイトではGoogle AdSenseやその他ソーシャルボタンのためにCookieを使用しています。もし同意いただけない場合はブラウザでクッキーを無効にして閲覧をお願いします。This site uses cookies for Google AdSense and some social buttons. If you cannot accept our use of cookies, please disable cookies on your browser.
+              <button type="button" class="btn btn-success btn-sm" id="cookieok">Got It.</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <hr>
+
+      <footer>
+        <p>(C) 2017 Ryuichi Ueda <a href="/?page=privacy">このサイトについて</a></p>
+      </footer>
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <!--<script src="/bsview/jquery.bs.gdpr.cookies.js"></script>-->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+    <script src="/bsview/main.js"></script>
+  </body>
+</html>

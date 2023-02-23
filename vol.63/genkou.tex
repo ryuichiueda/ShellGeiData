@@ -1,0 +1,60 @@
+\begin{align}
+	\Delta \V{x}_t \sim p( \Delta\V{x} | \V{x}_{t-1}, \V{u}_t) \label{eq:state_transition_model}
+\end{align}
+と表わすことができます。また，移動量ではなく，
+移動後の位置$\V{x}_t = \Delta \V{x}_t + \V{x}_{t-1}$の分布で考えると，
+\begin{align}
+	\V{x}_t \sim p( \V{x} | \V{x}_{t-1}, \V{u}_t) \label{eq:state_transition_model2}
+\end{align}
+と表せます
+\footnote{
+	$p$は式\ref{eq:state_transition_model}とは異なる関数になりますが，
+	同じ記号で表すので文脈で頭を切り替えてください。
+}。
+実験環境を整えたりすることになります。
+
+これらの式を図にしたものを\ref{fig:motion}に示します。
+
+\begin{figure}[hbt]
+ \centering
+  \includegraphics[width=0.6\linewidth]{figures/motion.eps}
+	\caption{$\V{u}_t$と分布$p(\V{x} | \V{x}_{t-1}, \V{u}_t)$}
+  \label{fig:motion}
+\end{figure}
+
+式\ref{eq:state_transition_model}，
+\ref{eq:state_transition_model2}の
+右辺の分布については，「条件に書いていないこと」も重要です。
+これらの分布では，
+「$\V{x}_{t-2}$以前のロボットの位置は，$\Delta \V{x}_t$や$\V{x}_t$の
+値に影響を与えないと考える」
+と暗に宣言していることになります。
+これは，ロボットが高速で移動していると成り立ちませんが，
+低速で動いていればだいたい成り立ちます。
+
+
+式\ref{eq:state_transition_model}や
+式\ref{eq:state_transition_model2}の表現は，
+特にロボットだけでなく，動くものならなんでも
+適用できる式です。
+たとえば\ref{fig:typhoon}の台風は
+特に意思を持っていませんが，
+周辺の風や，その他台風の動きに影響のあるものを
+すべて$\V{u}$のなかに変数として押し込めることで，
+式\ref{eq:state_transition_model2}のように表現できます。
+また，制御の教科書を開くと，
+\begin{align}
+	\V{x}_t = A \V{x}_{t-1} + B \V{u}_t + \V{\varepsilon}\label{eq:state_equation_linear}
+\end{align}
+（$A$，$B$は行列，$\V{\varepsilon}$は雑音を表すベクトル）
+や，
+\begin{align}
+	\V{x}_t = \V{f}( \V{x}_{t-1}, \V{u}_t) + \V{\varepsilon} \label{eq:state_equation_nonlinear}
+\end{align}
+という式（\textbf{状態方程式}\index{じょうたいほうていしき@状態方程式}）
+が最初に書いてあります。これらの式と，
+式\ref{eq:state_transition_model2}を見比べると，
+式\ref{eq:state_transition_model2}が，
+これらの式を抽象化したものであることが分かります。
+つまり，制御で扱われる物体の動きは，
+式\ref{eq:state_transition_model2}で表現できるということになります。

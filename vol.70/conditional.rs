@@ -441,7 +441,7 @@ impl ConditionalExpr {
                 continue;
             }
 
-            let fn;
+            let fnn = "dummy";
             break;
         }
         None
